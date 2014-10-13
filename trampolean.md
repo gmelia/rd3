@@ -1,7 +1,9 @@
 
-Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Et neuf fois sur dix, les laboratoires IT transforment l'or noir en projets goudronnés avec plumes incorporées.
+Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Et, neuf fois sur dix, les laboratoires IT transforment l'or noir en projets goudronnés avec plumes incorporées.
 
 Les artisans développeurs, et les citoyens utilisateurs ont du mal à trouver leur Esperanto. Les deux silos s'observent par meurtrières interposées.
+
+Aligner une vision cohérente et partagée sur une idée chouette et utile relève de la bonne fortune.
 
 
 
