@@ -1,7 +1,9 @@
 
-# Les citoyens, le réservoir d'idées
-* Nous : Dans le silo IT on a pas beaucoup de fenêtre ouverte sur le "monde réel"
-* Citoyen : Compliqué de dialoguer avec des E.T.
+Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Et neuf fois sur dix, les laboratoires IT transforment l'or noir en projets goudronnés avec plumes incorporées.
+
+Les artisans développeurs, et les citoyens utilisateurs ont du mal à trouver leur Esperanto. Les deux silos s'observent par meurtrières interposées.
+
+
 
 # De typhon futé à gymkhana
 
