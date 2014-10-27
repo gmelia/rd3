@@ -63,14 +63,17 @@ D'un autre côté, utiliser l'approche _Running Lean_ apportait une réponse str
 
 # Anime-moi tendre, anime-moi vrai
 
-L'Open Bidouille Camp, est un peu la foire du Do It Yourself (DIY), on y trouve des imprimantes 3D, les fans du [disco soup], des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2013, les ateliers Gymkhana. Pour l'occasion nous avions convenu de changer le sujet en laissant Typhon Futé pour partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. Le public était plus hétéroclite que les précédents ateliers, nous avions invités quelques proches de la communauté Agile Bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'Open Bidouille sont venus nous rejoindre. Nous avons joué les jeux qui avaient été préparés. En fin de journée, le groupe avait fait émerger une vision collective avec des prises de paroles pertinentes et équilibrées. Une hypothèse sous forme de Lean Canvas avait été réalisée, un produit minimum était née : Jette moi, mais bien !
+L'_Open Bidouille Camp_, est un peu la foire du _Do It Yourself_ (DIY), on y trouve des imprimantes 3D, les fans du _Disco soup_, des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2013, les ateliers _Gymkhana_.
 
-Nous avions annoncé la mise à disposition des ateliers Gymkhana en licence libre. Pour honorer cette promesse il était temps de documenter le projet. Nous avons proposé un site dédié proposant des fiches outils, et une description générale du déroulé des ateliers.
+Pour l'occasion nous avions convenu de partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. L'objectif consistait à réaliser le Produit Minimum Viable d'une application Web. Le public était plus hétéroclite que lors des précédents ateliers, nous avions invités quelques proches de la communauté _agile_ bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'_Open Bidouille_ sont venus nous rejoindre. Nous avons joué aux jeux qui avaient été préparés. En fin de journée, le groupe avait fait émerger une vision collective avec des prises de parole pertinentes et équilibrées. Une hypothèse sous forme de _Lean Canvas_ avait été réalisée, un produit minimum était née : _Jette-moi, mais bien !_
+
+Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _Gymkhana_ en licence libre. Pour honorer cette promesse il était temps de documenter le projet. Nous avons proposé un site dédié avec des fiches outils, et une description générale du déroulé des ateliers.
 
 # TedX
 
-Le 20 juin 2014, une présentation TedX de Gymkhana a été proposé à Toulon. La tentative était un peu douloureuse, l'approche étant très jeune la démonstration souffre d'un manque de cohérence et traduit un peu le fait que l'expérience n'est pas encore stabilisée  [belle excuse].   
+Le 20 juin 2014, une présentation _TedX_ de _Gymkhana_ a été proposé à Toulon. La tentative était un peu douloureuse, l'approche étant très jeune, la démonstration souffrait d'un manque de cohérence, et reflétait le fait que l'expérience n'était pas encore stabilisée  [belle excuse].   
 
+# CG33
 
 Liens :
 http://bit.ly/mtp-gymkhana
@@ -78,14 +81,9 @@ http://bit.ly/obc-gymkhana
 http://bit.ly/tedx-gymkhana
 http://openbidouille.net
 
-
-VII - CG33
-
 Répondre à la question :
 	-> Alignement possible des devs et des citoyens
 	Les citoyens arrivent à co-construire une vision directement exploitable par une équipe de devs.
-
-
 
 
 * Ce que nous allons faire : Blog
