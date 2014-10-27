@@ -73,7 +73,7 @@ Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _G
 
 Le 20 juin 2014, une présentation _TedX_ de _Gymkhana_ a été proposé à Toulon. La tentative était un peu douloureuse, l'approche étant très jeune, la démonstration souffrait d'un manque de cohérence, et reflétait le fait que l'expérience n'était pas encore stabilisée  [belle excuse].   
 
-# CG33
+# Bordeaux le retour
 
 Liens :
 http://bit.ly/mtp-gymkhana
