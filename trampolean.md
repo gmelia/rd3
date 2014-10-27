@@ -37,7 +37,10 @@ Pour obtenir un consentement, nous avons écrêté les idées colorées et origi
 
 Concernant les jeux, les participants échappaient aux débats stériles, mais les résultats n'apportaient que des morceaux disparates, comme des pièces de puzzle éparses. Nous ne sommes pas parvenus à construire une vision homogène du produit avec ces éléments.
 
-Finalement, nous avions trois problèmes à résoudre. Nous n'arrivions pas à faire ressortir l'intelligence collective, certaines séquences provoquaient des débats stériles, et la production des ateliers était trop morcelée pour être exploitable. 
+Finalement, il nous est apparu que nous avions trois problèmes à résoudre :
+- nous n'arrivions pas à faire ressortir l'intelligence collective, 
+- certaines séquences provoquaient des débats stériles, 
+- et la production des ateliers était trop morcelée pour être exploitable. 
 
 # Toulouse presque rose
 
@@ -47,7 +50,7 @@ C'est à Toulouse, dans le tiers lieu _La Cantine_, que nous avons mis en place 
 
 Pour résoudre le problème du consensus mou, nous avons choisi d'utiliser des techniques de _Design Thinking_ et des exercices _d'éducation populaire_ favorisant la co-création, et la pensée intuitive du groupe. Les résultats ont été concluants. Des idées  plus originales ont émergé comme par exemple celle d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, _Crise_, a d'ailleurs été rebaptisée _Typhon Futé_.
 
-Afin de limiter les débats, nous avons resserré l'approche stratégique sur _Running Lean_. Malheureusement, cela n'a pas empêché les hold-up de parole.
+Afin de limiter les débats, nous avions resserré l'approche stratégique sur _Running Lean_. Malheureusement, cela n'a pas empêché les hold-up de parole.
 
 Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un _Lean Canvas_. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants sans toutefois résoudre complètement le problème de morcellement du produit.
     
@@ -59,7 +62,9 @@ Nous avons décidé de mettre de côté l'application _Typhon Futé_ pour nous c
 
 Avec les jeux nous possédions une résolution tactique élégante. Les ateliers ludiques permettaient au groupe de converger vers des propositions collectives sans partir dans les discussions infructueuses qui aboutissaient aux hold-up de parole. Nous avons donc créé des jeux dédiés à chaque section du _Lean Canvas_.
 
-D'un autre côté, utiliser l'approche _Running Lean_ apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit. Nous avons baptisé _Gymkhana_ cette nouvelle formule d'ateliers de co-construction citoyenne. 
+D'un autre côté, utiliser l'approche _Running Lean_ apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit. Cependant il était indispensable d'adapter l'approche à la cible des citoyens et du bien public. En effet, Running Lean s'intéresse aux applications commerciales et à leur rentabilité.
+
+Nous avons donc adapté, modifié, réorienté les ateliers et le canevas. Nous avons baptisé _Gymkhana_ cette nouvelle formule d'ateliers de co-construction citoyenne. 
 
 À cette étape, l'approche _Gymkhana_ était sympa, mais encore théorique, nous avons décidé de la mettre concrètement en application à l'occasion de la rencontre _Open Bidouille_ de Bordeaux.  
 
@@ -67,7 +72,7 @@ D'un autre côté, utiliser l'approche _Running Lean_ apportait une réponse str
 
 L'_Open Bidouille Camp_, est un peu la foire du _Do It Yourself_ (DIY), on y trouve des imprimantes 3D, les fans du _Disco soup_, des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2013, les ateliers _Gymkhana_.
 
-Pour l'occasion nous avions convenu de partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. L'objectif consistait à réaliser le Produit Minimum Viable d'une application Web. Le public était plus hétéroclite que lors des précédents ateliers, nous avions invités quelques proches de la communauté _agile_ bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'_Open Bidouille_ sont venus nous rejoindre. Nous avons joué aux jeux qui avaient été préparés. En fin de journée, le groupe avait fait émerger une vision collective avec des prises de parole pertinentes et équilibrées. Une hypothèse sous forme de _Lean Canvas_ avait été réalisée, un produit minimum était née : _Jette-moi, mais bien !_
+Pour l'occasion nous avions convenu de partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. L'objectif consistait à réaliser le Produit Minimum Viable d'une application Web. Le public était plus hétéroclite que lors des précédents ateliers, nous avions invité quelques proches de la communauté _agile_ bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'_Open Bidouille_ sont venus nous rejoindre. Nous avons joué aux jeux qui avaient été préparés. En fin de journée, le groupe avait fait émerger une vision collective avec des prises de parole pertinentes et équilibrées. Une hypothèse sous forme de _Lean Canvas_ avait été réalisée, un produit minimum était née : _Jette-moi, mais bien !_
 
 Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _Gymkhana_ en licence libre. Pour honorer cette promesse il était temps de documenter le projet. Nous avons proposé un site dédié avec des fiches outils, et une description générale du déroulé des ateliers.
 
