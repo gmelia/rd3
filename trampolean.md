@@ -7,10 +7,10 @@ Des développeurs conscients de ce fossé tentent de devenir des artisans, plus 
 
 Cependant, à partir d'une idée qui semble utile, s'aligner sur une vision cohérente et partagée relève toujours de la bonne fortune. Conséquence directe de ce manque d'alignement entre les parties : neuf fois sur dix, les projets n'aboutissent pas mais on a fait beaucoup d'effort avant de s'arrêter ou ne sont que très peu utilisés, ce qui est encore plus dramatique. Une raison de ce faible usage est le résultat d'un paradoxe : croyant bien faire, les développeurs ont provoqué une prolifération de fonctionnalités, finalement inutiles pour les citoyens et contribuant à dénaturer le produit. 
 
-Il nous est apparu nécessaire, à nous qui connaissons bien le développement et les développeurs, de casser ces cloisons, d'aligner les visions, et pour ce faire, il était fondamental de rencontrer les citoyens, d'échanger avec eux sur leurs besoins réels avant qu'ils ne s'enferment dans une solution anticipée et inadaptée.
+Il nous est apparu nécessaire, à nous qui connaissons bien le développement et les développeurs, de casser ces cloisons et d'aligner les visions. Pour ce faire, il nous est apparu fondamental de rencontrer les citoyens, d'échanger avec eux sur leurs besoins réels avant de les enfermer avec les développeurs dans une solution anticipée et inadaptée.
 
-Nous avons entrepris une véritable expédition à la recherche des problématiques citoyennes. Ce parcours sinueux, partant de notre volonté de co-construire un produit, nous a conduits 
-à l'élaboration d'une nouvelle approche participative : les ateliers Gymkhana.
+Nous avons entrepris une véritable expédition à la recherche des problématiques citoyennes. Ce parcours sinueux, partant de notre volonté de co-construire un produit, nous a conduits, de Montpellier à Bordeaux en passant par Toulouse,
+à l'élaboration d'une nouvelle approche basée sur des ateliers participatifs avec les citoyens. Nous l'avons appelée Gymkhana.
 
 # Crise en incubation
 
