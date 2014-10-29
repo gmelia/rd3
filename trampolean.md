@@ -4,9 +4,13 @@
 
 Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Malheureusement sa collaboration avec les développeurs est inexistante ou, quand elle passe par l'intermédiaire de représentants, infructueuse. C'est criant dans les sociétés où des années de silos ont érigé des barrières entre les utilisateurs ou leurs mandataires et les équipes de développement. Ils s'observent, chacun dans sa tourelle, par meurtrières interposées : les uns construisent des outils techniques difficilement utilisables, les autres formulent des solutions qui ne reflètent pas leurs besoins réels.
 
-Une poignée de/Certains développeurs conscients de ce fossé tentent de devenir des artisans, plus au service de leurs utilisateurs, considérés comme des citoyens à enchanter par leurs réalisations. Avec des artisans développeurs et des citoyens utilisateurs, nous pourrions espérer quelque progrès, qu'ils trouvent ensemble leur Esperanto.
+Certains développeurs conscients de ce fossé vise à devenir artisan. Plutôt que de faire consommer des utilisateurs, ils souhaitent enchanter les citoyens avec leurs réalisations. Nous pourrions espérer quelques progrès en aidant les artisans développeurs et les citoyens usagers à trouver ensemble leur Esperanto.
 
-Cependant, à partir d'une idée qui semble utile, s'aligner sur une vision cohérente et partagée relève toujours de la bonne fortune. Conséquence directe de ce manque d'alignement entre les parties : neuf fois sur dix, les projets n'aboutissent pas ( et les efforts fait avant de s'arrêter sont considérables) ou ne sont que très peu utilisés, ce qui est encore plus dramatique. Une raison de ce faible usage est le résultat d'un paradoxe : croyant bien faire, les développeurs ont provoqué une prolifération de fonctionnalités, finalement inutiles pour les citoyens et contribuant à dénaturer le produit. 
+Cependant, à partir d'une idée qui semble utile, s'aligner sur une vision cohérente et partagée relève toujours de la bonne fortune. Conséquence directe de ce manque d'alignement entre les parties : neuf fois sur dix, les projets n'aboutissent pas ou ne sont que très peu utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
+
+> “La vie est trop courte pour construire des produits dont personnes ne veut.” - Ash Maurya
+
+Une raison de ce faible usage est le résultat d'un paradoxe : croyant bien faire, les développeurs ont provoqué une prolifération de fonctionnalités, finalement inutiles pour les citoyens et contribuant à dénaturer le produit. 
 
 Il nous est apparu nécessaire, à nous qui connaissons bien le développement et les développeurs/ses concepteurs?, de casser ces cloisons et d'aligner les visions. Pour ce faire, il nous est apparu fondamental de rencontrer les citoyens, d'échanger avec eux sur leurs besoins réels avant de les enfermer avec les développeurs dans une solution anticipée et inadaptée.
 
