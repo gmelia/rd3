@@ -21,11 +21,11 @@ Durant six mois, nous avons suivi des formations marketing afin de réaliser un 
 
 A l'issue de cette expérience, nous avions établi le constat qu'un réel besoin de décider en période de crise existait, mais que les projets étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincu que les approches _lean_ et _agiles_ que nous pratiquions depuis quelques années, pourraient contribuer à aider bien plus efficacement les porteurs de projets.  
 
-# Montpellier, un essai un peu transformé 
+# Montpellier, un essai transformable
 
-Le premier coup de pied Gymkhana a été donné à Montpellier. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois : modéliser les besoins de _Crise_ et obtenir une première hypothèse de travail. Nous avions hâte de revenir à notre culture, à nos pratiques, et de réellement commencer la réalisation de _Crise_. Nous avons eu l’idée d’organiser un atelier de co-construction avec des développeurs, des _Product-Owner_, des _facilitateurs_ et quelques experts métiers spécialisés dans la gestion de crises d’intempéries.
+Le premier coup de pied Gymkhana a été donné à Montpellier le 20 juin 2013. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois : modéliser les besoins de _Crise_ et obtenir une première hypothèse de travail. Nous avions hâte de revenir à notre culture, à nos pratiques, et de réellement commencer la réalisation de _Crise_. Nous avons eu l’idée d’organiser un atelier de co-construction avec des développeurs, des _Product-Owner_, des _facilitateurs_ et quelques experts métiers spécialisés dans la gestion de crises d’intempéries.
 
-La matinée fut dédiée au jeux _agiles_. Nous scrutâmes d'abord l’avenir avec : “souvenir du futur”, puis définimes des [_personae_] avec les “cartes d’empathie”, et enfin cherchâmes notre cap avec le “speed-boat”. L'après-midi, les participants rassemblés en différents groupes furent invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
+La matinée était dédiée aux jeux _Agiles_. Nous avons d'abord scruté l’avenir avec : “souvenir du futur”, puis défini des [_personae_] avec les “cartes d’empathie”, et enfin cherché notre cap avec le “speed-boat”. L'après-midi, les participants rassemblés en différents groupes furent invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
 
 L'après-midi, pour synthétiser et converger vers une vision partagée, nous avons utilisé trois approches différentes : 
 - l'_impact mapping_ ;
@@ -77,14 +77,14 @@ Pour l'occasion nous avions convenu de partir sur une problématique endémique 
 
 Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _Gymkhana_ en licence libre. Pour honorer cette promesse il était temps de documenter le projet. Nous avons proposé un site dédié avec des fiches outils, et une description générale du déroulé des ateliers.
 
-# TedX : Un potager numérique
+# TedX : le potager numérique
 
 Une présentation _TedX_ de _Gymkhana_ a été proposée à Toulon. La tentative était un peu fougueuse, l'approche étant très jeune, la démonstration souffrait d'un manque de stabilité.
 Nous souhaitions trouver un équilibre pour définir le projet sans pour autant le figer. Nous avons annoncé une proposition de valeur : “Construire ensemble et autrement des idées citoyennes”. Et proposé une première définition :
 
 “les ateliers _Gymkhana_ proposent de convertir une idée portée par des citoyens en plan d'action directement exploitable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale.”
 
-# Bordeaux aux assises de la médiation numérique
+# Au pays de la médiation numérique
 
 Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Les murs qui séparent ces communautés se lézardent, et l’une d’elle : la médiation numérique, nous a invité à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. 
 
