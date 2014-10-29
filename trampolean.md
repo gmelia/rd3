@@ -33,13 +33,9 @@ L'après-midi, pour synthétiser et converger vers une vision partagée, nous av
 - _story mapping_ ;
 - _running lean_.
 
-Bilan des courses : La matinée s'est avérée très prolifique, la parole a bien circulé, les ateliers nous ont permis d'avoir, semble t-il, une compréhension commune de _Crise_ et des impacts attendus de la part des citoyens. Cependant, le passage des jeux à la concertation, en vue de converger dans l'après-midi, a provoqué des débats usants durant lesquels quelques participants ont monopolisé la parole. Un sujet aussi spécifique que la responsabilité pénale des institutions générait, par exemple, des controverses longues et ennuyeuses.  
+Bilan des courses : La matinée s'est avérée très prolifique, la parole a bien circulé, les ateliers nous ont permis d’obtenir une compréhension relative de _Crise_ et des impacts attendus par les citoyens. Nous souhaitions converger dans l'après-midi, mais le passage des jeux à la concertation a provoqué des débats usants durant lesquels quelques participants ont monopolisé la parole. Un sujet aussi spécifique que la responsabilité pénale des institutions a par exemple généré des controverses longues et ennuyeuses. D’autre part, pour obtenir un consentement, nous avons écrêté les idées colorées et originales. Finalement le résultat s'est arrondi pour aboutir à une espèce de consensus mou. Par exemple, l'idée d'utiliser un canoë pour se déplacer dans les rues de Montpellier a été immédiatement écartée au profit de propositions plus conventionnelles, comme l'aide à la récupération des enfants à l'école. Concernant les jeux, les participants échappaient aux débats stériles, mais les résultats n'apportaient que des morceaux fragmentés, comme des pièces de puzzle éparses. Nous ne sommes pas parvenus à construire une vision homogène du produit avec ces éléments.
 
-Pour obtenir un consentement, nous avons écrêté les idées colorées et originales, et finalement le résultat s'est arrondi, est devenu monochrome pour aboutir à un genre de consensus mou. Par exemple, l'idée, originale, d'utiliser un canoë pour se déplacer dans les rues de Montpellier a été vite écartée au profit de propositions plus conventionnelles comme l'aide à la récupération des enfants à l'école.
-
-Concernant les jeux, les participants échappaient aux débats stériles, mais les résultats n'apportaient que des morceaux disparates, comme des pièces de puzzle éparses. Nous ne sommes pas parvenus à construire une vision homogène du produit avec ces éléments.
-
-Finalement, il nous est apparu que nous avions trois problèmes à résoudre :
+La rétrospective de la journée a révélé trois actions à entreprendre pour améliorer les problèmes suivants :
 - nous n'arrivions pas à faire ressortir l'intelligence collective ;
 - certaines séquences provoquaient des débats stériles ; 
 - la production des ateliers était trop morcelée pour être exploitable. 
@@ -48,13 +44,11 @@ Finalement, il nous est apparu que nous avions trois problèmes à résoudre :
 
 Nous avons donc décidé de reconduire un atelier en essayant de résoudre les problèmes rencontrés à Montpellier tout en continuant la co-construction de l'application _Crise_.
 
-C'est à Toulouse, dans le tiers lieu _La Cantine_, que nous avons mis en place ce nouvel atelier. Pour redonner du peps et modifier l'approche, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site _On va sortir_. Nous avions également invité des contributeurs de la communauté _agile_. 
+C'est à Toulouse, dans le tiers lieu _La Cantine_, que nous avons mis en place ce nouvel atelier. Pour redonner du peps et modifier l'approche, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site _On va sortir_. Nous avions également invité des partenaires de la communauté _agile_. 
 
-Pour résoudre le problème du consensus mou, nous avons choisi d'utiliser des techniques de _Design Thinking_ et des exercices _d'éducation populaire_ favorisant la co-création, et la pensée intuitive du groupe. Les résultats ont été concluants. Des idées  plus originales ont émergé comme par exemple celle d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, _Crise_, a d'ailleurs été rebaptisée _Typhon Futé_.
+Pour résoudre le problème du consensus mou, nous avons choisi d'utiliser des techniques de _Design Thinking_ et des exercices _d'éducation populaire_ favorisant la co-création, et la pensée intuitive du groupe. Les résultats ont été concluants. Des idées  plus originales ont émergé, comme par exemple la solution d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, _Crise_, a d'ailleurs été rebaptisée _Typhon Futé_.
 
-Afin de limiter les débats, nous avions resserré l'approche stratégique sur _Running Lean_. Malheureusement, cela n'a pas empêché les hold-up de parole.
-
-Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un _Lean Canvas_. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants sans toutefois résoudre complètement le problème de morcellement du produit.
+Afin de limiter les débats, nous avions resserré l'approche stratégique sur _Running Lean_. Malheureusement, cela n'a pas empêché les hold-up de parole. Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un _Lean Canvas_. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants sans toutefois résoudre complètement le problème de fragmentation du produit.
     
 En sortant de _La Cantine_ subsistaient donc les prises de paroles intempestives, et le morcellement des résultats des ateliers. 
 
@@ -113,14 +107,16 @@ http://bit.ly/mvp-ash - MVP par Ash Maurya
 http://bit.ly/obc-gymkhana - Open-Bidouille de Bordeaux
 http://bit.ly/tedx-gymkhana - Vidéo de la présentation TedX
 http://bit.ly/mednum14 - 2ème Assises de la médiation numérique
+http://impactmapping.org - L’impact mapping par Gojko Adzic
 
 # Suivez ce compte !
-@ashmaurya
-@claudeaubry
-@davidbgk
-@keronos
-@langlois_s
-@liochan
-@merkapt
-@providenz
-@vinyll
+@ashmaurya - Running Lean
+@claudeaubry - Co-créateur
+@davidbgk - Co-opérateur
+@keronos - Médiation numérique
+@langlois_s - Co-créateur
+@liochan - Co-animateur
+@merkapt - Co-pilote
+#miho_fr - Typhon Futé
+@providenz - TedX Toulon
+@vinyll - Co-opérateur
