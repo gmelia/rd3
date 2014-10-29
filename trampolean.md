@@ -8,44 +8,41 @@ Certains développeurs conscients de ce fossé vise à devenir artisan. Plutôt 
 
 Cependant, à partir d'une idée qui semble utile, s'aligner sur une vision cohérente et partagée relève toujours de la bonne fortune. Conséquence directe de ce manque d'alignement entre les parties : neuf fois sur dix, les projets n'aboutissent pas ou ne sont que très peu utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
 
-> “La vie est trop courte pour construire des produits dont personnes ne veut.” - Ash Maurya
+> “La vie est trop courte pour construire quelque chose que personne ne veut.” - Ash Maurya
 
-Une raison de ce faible usage est le résultat d'un paradoxe : croyant bien faire, les développeurs ont provoqué une prolifération de fonctionnalités, finalement inutiles pour les citoyens et contribuant à dénaturer le produit. 
+Il était nécessaire de casser la cloison qui séparait les développeurs des citoyens afin d'aligner les visions. Pour ce faire, il nous est apparu fondamental de rencontrer les citoyens, d'échanger avec eux sur leurs besoins réels avant de les enfermer avec les développeurs dans une solution anticipée et inadaptée.
 
-Il nous est apparu nécessaire, à nous qui connaissons bien le développement et les développeurs/ses concepteurs?, de casser ces cloisons et d'aligner les visions. Pour ce faire, il nous est apparu fondamental de rencontrer les citoyens, d'échanger avec eux sur leurs besoins réels avant de les enfermer avec les développeurs dans une solution anticipée et inadaptée.
-
-Nous avons entrepris une véritable expédition à la recherche des problématiques citoyennes. Ce parcours sinueux, partant de notre volonté de co-construire un produit, nous a conduits, de Montpellier à Bordeaux en passant par Toulouse,
-à l'élaboration d'une nouvelle approche basée sur des ateliers participatifs avec les citoyens. Nous l'avons appelée Gymkhana.
+Nous avons entrepris une véritable expédition à la recherche des problématiques citoyennes. Ce parcours sinueux, partant de notre volonté de co-construire un produit, nous a conduits, de Montpellier à Bordeaux en passant par Toulouse, à l'élaboration d'une nouvelle approche basée sur des ateliers participatifs avec les citoyens. Nous l'avons appelée _Gymkhana_.
 
 # Crise en incubation
 
-Nous souhaitions initialement réaliser une application Web [_Crise_] dont le but était d'aider les citoyens à prendre les bonnes décisions en situation de crise liée aux intempéries. Nous avons donc, en février 2013, choisi de proposer ce projet à un incubateur dédié à l'Économie Sociale et Solidaire, afin d'en éprouver les approches d'accompagnement.
+Nous souhaitions initialement réaliser une application Web [_Crise_] dont le but était d'aider les citoyens à prendre les bonnes décisions en situation de crise liée aux intempéries. Nous avons choisi de proposer ce projet à un incubateur dédié à l'Économie Sociale et Solidaire, afin d'en éprouver les approches d'accompagnement.
 
-Durant six mois, nous avons suivi des formations marketing afin de réaliser un business plan et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si l'approche de l'incubateur nous est apparue parfaitement inadaptée à la conduite d'un projet Web innovant, en revanche la richesse des rencontres, et des échanges autour de projets solidaires pertinents s'est avérée très prolifique.
+Durant six mois, nous avons suivi des formations marketing afin de réaliser un _business plan_ et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si l'approche de l'incubateur nous est apparue parfaitement inadaptée à la conduite d'un projet Web innovant, en revanche la richesse des rencontres, et des échanges autour de projets solidaires pertinents s'est avérée très prolifique.
 
 A l'issue de cette expérience, nous avions établi le constat qu'un réel besoin de décider en période de crise existait, mais que les projets étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincu que les approches _lean_ et _agiles_ que nous pratiquions depuis quelques années, pourraient contribuer à aider bien plus efficacement les porteurs de projets.  
 
 # Montpellier, un essai transformable
 
-Le premier coup de pied Gymkhana a été donné à Montpellier le 20 juin 2013. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois : modéliser les besoins de _Crise_ et obtenir une première hypothèse de travail. Nous avions hâte de revenir à notre culture, à nos pratiques, et de réellement commencer la réalisation de _Crise_. Nous avons eu l’idée d’organiser un atelier de co-construction avec des développeurs, des _Product-Owner_, des _facilitateurs_ et quelques experts métiers spécialisés dans la gestion de crises d’intempéries.
+Le premier coup de pied Gymkhana a été donné à Montpellier. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois : modéliser les besoins de _Crise_ et obtenir une première hypothèse de travail. Nous avions hâte de revenir à notre culture, à nos pratiques, et de réellement commencer la réalisation de _Crise_. Nous avons eu l’idée d’organiser un atelier de co-construction avec des développeurs, des _Product-Owner_, des _facilitateurs_ et quelques experts métiers spécialisés dans la gestion de crises d’intempéries.
 
-La matinée était dédiée aux jeux _Agiles_. Nous avons d'abord scruté l’avenir avec : “souvenir du futur”, puis défini des [_personae_] avec les “cartes d’empathie”, et enfin cherché notre cap avec le “speed-boat”. L'après-midi, les participants rassemblés en différents groupes furent invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
+La matinée était dédiée aux jeux _agiles_. Nous avons d'abord scruté l’avenir avec : “souvenir du futur”, puis défini des [_personae_] avec les “cartes d’empathie”, et enfin cherché notre cap avec le “speed-boat”. L'après-midi, les participants rassemblés en différents groupes furent invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
 
 L'après-midi, pour synthétiser et converger vers une vision partagée, nous avons utilisé trois approches différentes : 
-- l'_impact mapping_ ;
-- le _story mapping_ ;
-- le _Running Lean_.
+- _impact mapping_ ;
+- _story mapping_ ;
+- _running lean_.
 
-Bilan des courses : La matinée s'est avérée très prolifique, la parole a bien circulé, les ateliers nous ont permis d'avoir, semble t-il, une compréhension commune de _Crise_ et des impacts attendus de la part des citoyens. Cependant, le passage des jeux à la concertation, en vue de converger dans l'après-midi, a provoqué des débats usants durant lesquels quelques participants ont monopolisé la parole. Un sujet aussi spécifique que la responsabilité pénale des institutions générait, par exemple, des controverses insolubles.  
+Bilan des courses : La matinée s'est avérée très prolifique, la parole a bien circulé, les ateliers nous ont permis d'avoir, semble t-il, une compréhension commune de _Crise_ et des impacts attendus de la part des citoyens. Cependant, le passage des jeux à la concertation, en vue de converger dans l'après-midi, a provoqué des débats usants durant lesquels quelques participants ont monopolisé la parole. Un sujet aussi spécifique que la responsabilité pénale des institutions générait, par exemple, des controverses longues et ennuyeuses.  
 
-Pour obtenir un consentement, nous avons écrêté les idées colorées et originales, et finalement le résultat s'est arrondi, est devenu monochrome pour aboutir à ce qui nous est apparu comme un consensus mou. Par exemple, l'idée, originale, d'utiliser un canoë pour se déplacer dans les rues de Montpellier a été vite écartée au profit de propositions plus conventionnelles comme l'aide à la récupération des enfants à l'école.
+Pour obtenir un consentement, nous avons écrêté les idées colorées et originales, et finalement le résultat s'est arrondi, est devenu monochrome pour aboutir à un genre de consensus mou. Par exemple, l'idée, originale, d'utiliser un canoë pour se déplacer dans les rues de Montpellier a été vite écartée au profit de propositions plus conventionnelles comme l'aide à la récupération des enfants à l'école.
 
 Concernant les jeux, les participants échappaient aux débats stériles, mais les résultats n'apportaient que des morceaux disparates, comme des pièces de puzzle éparses. Nous ne sommes pas parvenus à construire une vision homogène du produit avec ces éléments.
 
 Finalement, il nous est apparu que nous avions trois problèmes à résoudre :
-- nous n'arrivions pas à faire ressortir l'intelligence collective, 
-- certaines séquences provoquaient des débats stériles, 
-- et la production des ateliers était trop morcelée pour être exploitable. 
+- nous n'arrivions pas à faire ressortir l'intelligence collective ;
+- certaines séquences provoquaient des débats stériles ; 
+- la production des ateliers était trop morcelée pour être exploitable. 
 
 # Toulouse presque rose
 
