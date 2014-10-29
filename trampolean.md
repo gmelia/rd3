@@ -46,7 +46,7 @@ Finalement, il nous est apparu que nous avions trois problèmes à résoudre :
 
 # Toulouse presque rose
 
-Nous avons donc décidé de reconduire un atelier dont la finalité était la même : co-construire l'application Crise, en essayant de résoudre les problèmes rencontrés à Montpellier.
+Nous avons donc décidé de reconduire un atelier en essayant de résoudre les problèmes rencontrés à Montpellier tout en continuant la co-construction de l'application _Crise_.
 
 C'est à Toulouse, dans le tiers lieu _La Cantine_, que nous avons mis en place ce nouvel atelier. Pour redonner du peps et modifier l'approche, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site _On va sortir_. Nous avions également invité des contributeurs de la communauté _agile_. 
 
@@ -104,13 +104,13 @@ Gymkhana n'est pas qu'une succession d'ateliers ou de jeux, c'est une nouvelle a
 
 Gymkhana n'est pas qu'une succession d'ateliers ou de jeux, c’est du bidouillage, nous avons détourné _running lean_, le canevas _Gymkhana_ est co-construit par les participants que nous guidons à travers des ateliers/jeux venant de l’_agilité_ et eux aussi bricolés. C’est une nouvelle approche agencée pour faciliter l'innovation sociale et solidaire en cassant le mur de séparation entre les développeurs et les usagers.
 
-# Quelques liens :
-
-http://bit.ly/mtp-gymkhana
-http://bit.ly/obc-gymkhana
-http://bit.ly/tedx-gymkhana
-http://openbidouille.net
-http://bit.ly/mednum14
+# Lia
+http://blog.typhonfute.fr - Artefacts du projet Typhon Futé
+https://gymkhana.exposure.co - Photos des ateliers
+http://bit.ly/mtp-gymkhana - Flyer de l’atelier de Montpellier
+http://bit.ly/obc-gymkhana - Open-Bidouille de Bordeaux
+http://bit.ly/tedx-gymkhana - Vidéo de la présentation TedX
+http://bit.ly/mednum14 - 2ème Assises de la médiation numérique
 
 # Suivez le compte :
 @providenz
@@ -121,9 +121,3 @@ http://bit.ly/mednum14
 @liochan
 @davidbgk
 @vinyll
-
-
-* Ce que nous allons faire : Blog
-
-# Liens
-> https://leanstack.com/canvases/183657
