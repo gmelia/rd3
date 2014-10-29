@@ -66,9 +66,9 @@ Un problème subsistait, l’approche _Running Lean_ étant résolument commerci
 
 # Anime-moi tendre, anime-moi vrai
 
-L'_Open Bidouille Camp_, est un peu la foire du _Do It Yourself_ (DIY), on y trouve des imprimantes 3D, les fans du _Disco soup_, des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2013, les ateliers _Gymkhana_.
+L'_Open Bidouille Camp_, est un peu la foire du _Do It Yourself_ (DIY), on y trouve des imprimantes 3D, les fans du _Disco soupe_, des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2013, les ateliers _Gymkhana_.
 
-Pour l'occasion nous avions convenu de partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. L'objectif consistait à réaliser le Produit Minimum Viable d'une application Web. Le public était plus hétéroclite que lors des précédents ateliers, nous avions invité quelques proches de la communauté _agile_ bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'_Open Bidouille_ sont venus nous rejoindre. Nous avons joué aux jeux qui avaient été préparés. En fin de journée, le groupe avait fait émerger une vision collective avec des prises de parole pertinentes et équilibrées. Une hypothèse sous forme de _Lean Canvas_ avait été réalisée, un produit minimum était née : _Jette-moi, mais bien !_
+Pour l'occasion, nous avions convenu de partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. L'objectif consistait à réaliser le _Produit Minimum Viable_ d'une application Web. Le public était plus hétéroclite que lors des précédents ateliers, nous avions invité quelques proches de la communauté _agile_ bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'_Open Bidouille_ sont venus nous rejoindre. Nous avons joué aux jeux que nous avions bidouillés pour l’occasion. En fin de journée, le groupe avait fait émerger une vision collective avec des prises de parole pertinentes et équilibrées. Une hypothèse sous forme de _Lean Canvas_ avait été réalisée, un produit minimum était née : _Jette-moi, mais bien !_
 
 Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _Gymkhana_ en licence libre. Pour honorer cette promesse il était temps de documenter le projet. Nous avons proposé un site dédié avec des fiches outils, et une description générale du déroulé des ateliers.
 
@@ -81,22 +81,25 @@ Nous souhaitions trouver un équilibre pour définir le projet sans pour autant 
 
 # Au pays de la médiation numérique
 
-Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Les murs qui séparent ces communautés se lézardent, et l’une d’elle : la médiation numérique, nous a invité à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. 
+Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elle : la médiation numérique, nous a invité à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture _agile_.
 
-Cette invitation était l’occasion de pratiquer l’atelier
-Nous avons construit une première hypothèse de produit sur le thème de la Gestion D’Édition Documentaire pour la médiation numérique. L’atelier s’est déroulé sur deux jours. La première journée nous a permis de définir nos premiers usagers, de définir le top trois de leurs problèmes, et d’imaginer les astuces et pratiques qu’ils utilisaient aujourd’hui pour palier ces inconvénients. Nous avons utiliser l’interruption pour casser nos certitudes en effectuant des interviews auprès des vrais usagers. Le lendemain, nous avons commencé la journée en reprenant les résultats de la veille, pour les amender au regard des interviews. Nous avons ensuite continué à jouer. Chaque jeu produisait des réponses aux questions proposés par le canvas, et nous prenions le temps entre chaque atelier de compléter et de vérifier la pertinence de nos résultats.
+Nous avons construit une première hypothèse de produit sur le thème de la Gestion D’Édition Documentaire pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journée.
 
-Ensemble, nous avons relevé plusieurs points d’amélioration au cours d’une rétrospective de clôture. Tout d’abord, la difficulté de compréhension lié au jargon, cette demande avait déjà été clairement formulée à Toulouse. Un autre point a été mentionné, le démarrage de l’atelier provoquait une légère insécurité qui était déstabilisante pour les protagonistes qui s’était sentis désorientés.
+Dans la première session, l’atelier : “Des acteurs et des pépées” a dévoilé les usagers attendus. Les “cartes d’empathies” ont aidé à définir le profil des tout premiers utilisateurs de l’application. Le groupe a ensuite imaginé les trois problèmes principaux auxquels ces _personae_ étaient confrontés.
+
+La demi-journée qui séparait les deux sessions a été utilisé pour vérifier les résultats des ateliers en effectuant des interviews auprès des vrais usagers.
+
+Le lendemain, nous avons commencé la journée en vérifiant les certitudes produites la veille en les actualisant avec les enseignements des interviews. Suivant les ateliers, les intervenants se sont répartis en deux ou quatre groupes. À la fin des ateliers, nous convergions pour vérifier la pertinence des résultats, et compléter le _canvas_. 
+
+Ensemble, nous avons relevé plusieurs points d’amélioration au cours d’une rétrospective de clôture. Tout d’abord, les participants ont signalé un frein de compréhension liée au jargon, cette demande avait déjà été clairement formulée à Toulouse. Un autre point a été mentionné : le démarrage de l’atelier a provoqué une légère insécurité qui était déstabilisante pour les protagonistes, beaucoup se sont sentis désorientés.
 
 # Vers quelque part, et au-delà
 
-Si nous ne faisons pas germer nos idées citoyennes, elles finiront cabossées, déformées et monétisées. Le covoiturage est un bon exemple, dans les années 50 le principe est né d’une initiative citoyenne, et son principe était initialement basé sur des pratiques collaboratives d'auto-organisation citoyennes. Aujourd’hui, une application Web a été développée par une société privé qui est devenu l’acteur principal du covoiturage en Europe :(
+Si nous ne faisons pas germer nos idées citoyennes, elles finiront déformées et monétisées. Le covoiturage est un bon exemple, né dans les années 50 d’une initiative citoyenne, son principe était initialement basé sur des pratiques collaboratives d'auto-organisation citoyennes. Aujourd’hui, une application Web a été développée par une société privée qui est devenu incontournable en Europe :(
 
-Autre chantier, beaucoup d’institutions proposent des données publiques qui sont pour l’instant sous-exploitées dans leur utilisation logicielle. Nous pourrions utiliser _Gymkhana_ pour faciliter la concertation et l’implication des citoyens.
+Autre chantier, beaucoup d’institutions proposent des données publiques qui sont pour l’instant sous-exploitées dans leurs applications logicielles. Nous pourrions utiliser _Gymkhana_ pour faciliter la concertation et l’implication des citoyens.
 
-Gymkhana n'est pas qu'une succession d'ateliers ou de jeux, c'est une nouvelle approche pour l'innovation sociale et solidaire qui permet de casser le mur de séparation entre les développeurs et les usagers.
-
-Gymkhana n'est pas qu'une succession d'ateliers ou de jeux, c’est du bidouillage, nous avons détourné _running lean_, le canevas _Gymkhana_ est co-construit par les participants que nous guidons à travers des ateliers/jeux venant de l’_agilité_ et eux aussi bricolés. C’est une nouvelle approche agencée pour faciliter l'innovation sociale et solidaire en cassant le mur de séparation entre les développeurs et les usagers.
+_Gymkhana_ n'est pas qu'une succession d'ateliers ou de jeux, c'est une nouvelle approche pour faciliter l'innovation sociale et solidaire qui permet de casser la cloison entre les développeurs et les usagers.
 
 # Les petits liens…
 http://www.gymkhana.fr - Fiches des ateliers Gymkhana
@@ -109,6 +112,7 @@ http://bit.ly/obc-gymkhana - Open-Bidouille de Bordeaux
 http://bit.ly/tedx-gymkhana - Vidéo de la présentation TedX
 http://bit.ly/mednum14 - 2ème Assises de la médiation numérique
 http://impactmapping.org - L’impact mapping par Gojko Adzic
+http://discosoupe.org - Disco Soupe
 
 # Suivez ce compte !
 @ashmaurya - Running Lean
