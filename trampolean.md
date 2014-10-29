@@ -1,3 +1,4 @@
+> “Construire ensemble et autrement des idées citoyennes"
 
 # Les citoyens dans le phare, les développeurs sur le bateau 
 
@@ -18,13 +19,13 @@ Nous souhaitions initialement réaliser une application Web [_Crise_] dont le bu
 
 Durant six mois, nous avons suivi des formations marketing afin de réaliser un business plan et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si l'approche de l'incubateur nous est apparue parfaitement inadaptée à la conduite d'un projet Web innovant, en revanche la richesse des rencontres, et des échanges autour de projets solidaires pertinents s'est avérée très prolifique.
 
-A l'issue de cette expérience, nous avions établi le constat qu'un réel besoin de décider en période de crise existait, mais que les projets étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincu que les approches Lean et Agiles que nous pratiquions depuis quelques années, pourraient contribuer à aider bien plus efficacement les porteurs de projets.  
+A l'issue de cette expérience, nous avions établi le constat qu'un réel besoin de décider en période de crise existait, mais que les projets étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincu que les approches _lean_ et _agiles_ que nous pratiquions depuis quelques années, pourraient contribuer à aider bien plus efficacement les porteurs de projets.  
 
 # Montpellier, un essai un peu transformé 
 
-Le premier coup de pied Gymkhana a été donné à Montpellier le 20 juin 2013. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois : modéliser les besoins de _Crise_ et obtenir une première hypothèse de travail. Nous avions hâte de revenir à notre culture, à nos pratiques, et de réellement commencer la réalisation de notre projet. Nous avons eu l’idée d’organiser un atelier de co-construction avec des développeurs, des _Product-Owner_, des _facilitateurs_ et quelques experts métiers spécialisés dans la gestion de crises d’intempéries.
+Le premier coup de pied Gymkhana a été donné à Montpellier. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois : modéliser les besoins de _Crise_ et obtenir une première hypothèse de travail. Nous avions hâte de revenir à notre culture, à nos pratiques, et de réellement commencer la réalisation de _Crise_. Nous avons eu l’idée d’organiser un atelier de co-construction avec des développeurs, des _Product-Owner_, des _facilitateurs_ et quelques experts métiers spécialisés dans la gestion de crises d’intempéries.
 
-La matinée était dédiée aux jeux _Agiles_. Nous avons d'abord scruté l’avenir avec : “souvenir du futur”, puis défini des [_personae_] avec les “cartes d’empathie”, et enfin cherché notre cap avec le “speed-boat”. L'après-midi, les participants rassemblés en différents groupes furent invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
+La matinée fut dédiée au jeux _agiles_. Nous scrutâmes d'abord l’avenir avec : “souvenir du futur”, puis définimes des [_personae_] avec les “cartes d’empathie”, et enfin cherchâmes notre cap avec le “speed-boat”. L'après-midi, les participants rassemblés en différents groupes furent invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
 
 L'après-midi, pour synthétiser et converger vers une vision partagée, nous avons utilisé trois approches différentes : 
 - l'_impact mapping_ ;
@@ -46,7 +47,7 @@ Finalement, il nous est apparu que nous avions trois problèmes à résoudre :
 
 Nous avons donc décidé de reconduire un atelier dont la finalité était la même : co-construire l'application Crise, en essayant de résoudre les problèmes rencontrés à Montpellier.
 
-C'est à Toulouse, dans le tiers lieu _La Cantine_, que nous avons mis en place ce nouvel atelier. Pour redonner du peps et modifier l'approche, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site _On va sortir_. Nous avions également invité des contributeurs de la communauté Agile. 
+C'est à Toulouse, dans le tiers lieu _La Cantine_, que nous avons mis en place ce nouvel atelier. Pour redonner du peps et modifier l'approche, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site _On va sortir_. Nous avions également invité des contributeurs de la communauté _agile_. 
 
 Pour résoudre le problème du consensus mou, nous avons choisi d'utiliser des techniques de _Design Thinking_ et des exercices _d'éducation populaire_ favorisant la co-création, et la pensée intuitive du groupe. Les résultats ont été concluants. Des idées  plus originales ont émergé comme par exemple celle d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, _Crise_, a d'ailleurs été rebaptisée _Typhon Futé_.
 
@@ -56,7 +57,7 @@ Concernant le morcellement du produit, nous avons tenté d'orienter les jeux ver
     
 En sortant de _La Cantine_ subsistaient donc les prises de paroles intempestives, et le morcellement des résultats des ateliers. 
 
-# Remue-méninges à Castellan
+# Remue-méninges à Castanet
 
 Nous avons décidé de mettre de côté l'application _Typhon Futé_ pour nous concentrer sur l'organisation des ateliers eux-mêmes. Pendant une semaine, nous avons creusé la piste consistant à utiliser des activités ludiques, fédératrices, pour produire un _Lean Canvas_.
 
@@ -76,21 +77,49 @@ Pour l'occasion nous avions convenu de partir sur une problématique endémique 
 
 Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _Gymkhana_ en licence libre. Pour honorer cette promesse il était temps de documenter le projet. Nous avons proposé un site dédié avec des fiches outils, et une description générale du déroulé des ateliers.
 
-# TedX
+# TedX : Un potager numérique
 
-Le 20 juin 2014, une présentation _TedX_ de _Gymkhana_ a été proposé à Toulon. La tentative était un peu douloureuse, l'approche étant très jeune, la démonstration souffrait d'un manque de cohérence, et reflétait le fait que l'expérience n'était pas encore stabilisée  [belle excuse].   
+Une présentation _TedX_ de _Gymkhana_ a été proposée à Toulon. La tentative était un peu fougueuse, l'approche étant très jeune, la démonstration souffrait d'un manque de stabilité.
+Nous souhaitions trouver un équilibre pour définir le projet sans pour autant le figer. Nous avons annoncé une proposition de valeur : “Construire ensemble et autrement des idées citoyennes”. Et proposé une première définition :
 
-# Bordeaux le retour
+“les ateliers _Gymkhana_ proposent de convertir une idée portée par des citoyens en plan d'action directement exploitable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale.”
 
-Liens :
+# Bordeaux aux assises de la médiation numérique
+
+Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Les murs qui séparent ces communautés se lézardent, et l’une d’elle : la médiation numérique, nous a invité à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. 
+
+Cette invitation était l’occasion de pratiquer l’atelier
+Nous avons construit une première hypothèse de produit sur le thème de la Gestion D’Édition Documentaire pour la médiation numérique. L’atelier s’est déroulé sur deux jours. La première journée nous a permis de définir nos premiers usagers, de définir le top trois de leurs problèmes, et d’imaginer les astuces et pratiques qu’ils utilisaient aujourd’hui pour palier ces inconvénients. Nous avons utiliser l’interruption pour casser nos certitudes en effectuant des interviews auprès des vrais usagers. Le lendemain, nous avons commencé la journée en reprenant les résultats de la veille, pour les amender au regard des interviews. Nous avons ensuite continué à jouer. Chaque jeu produisait des réponses aux questions proposés par le canvas, et nous prenions le temps entre chaque atelier de compléter et de vérifier la pertinence de nos résultats.
+
+Ensemble, nous avons relevé plusieurs points d’amélioration au cours d’une rétrospective de clôture. Tout d’abord, la difficulté de compréhension lié au jargon, cette demande avait déjà été clairement formulée à Toulouse. Un autre point a été mentionné, le démarrage de l’atelier provoquait une légère insécurité qui était déstabilisante pour les protagonistes qui s’était sentis désorientés.
+
+# Vers quelque part, et au-delà
+
+Si nous ne faisons pas germer nos idées citoyennes, elles finiront cabossées, déformées et monétisées. Le covoiturage est un bon exemple, dans les années 50 le principe est né d’une initiative citoyenne, et son principe était initialement basé sur des pratiques collaboratives d'auto-organisation citoyennes. Aujourd’hui, une application Web a été développée par une société privé qui est devenu l’acteur principal du covoiturage en Europe :(
+
+Autre chantier, beaucoup d’institutions proposent des données publiques qui sont pour l’instant sous-exploitées dans leur utilisation logicielle. Nous pourrions utiliser _Gymkhana_ pour faciliter la concertation et l’implication des citoyens.
+
+Gymkhana n'est pas qu'une succession d'ateliers ou de jeux, c'est une nouvelle approche pour l'innovation sociale et solidaire qui permet de casser le mur de séparation entre les développeurs et les usagers.
+
+Gymkhana n'est pas qu'une succession d'ateliers ou de jeux, c’est du bidouillage, nous avons détourné _running lean_, le canevas _Gymkhana_ est co-construit par les participants que nous guidons à travers des ateliers/jeux venant de l’_agilité_ et eux aussi bricolés. C’est une nouvelle approche agencée pour faciliter l'innovation sociale et solidaire en cassant le mur de séparation entre les développeurs et les usagers.
+
+# Quelques liens :
+
 http://bit.ly/mtp-gymkhana
 http://bit.ly/obc-gymkhana
 http://bit.ly/tedx-gymkhana
 http://openbidouille.net
+http://bit.ly/mednum14
 
-Répondre à la question :
-	-> Alignement possible des devs et des citoyens
-	Les citoyens arrivent à co-construire une vision directement exploitable par une équipe de devs.
+# Suivez le compte :
+@providenz
+@claudeaubry
+@langlois_s
+@keronos
+@merkapt
+@liochan
+@davidbgk
+@vinyll
 
 
 * Ce que nous allons faire : Blog
