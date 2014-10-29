@@ -54,15 +54,15 @@ En sortant de _La Cantine_ subsistaient donc les prises de paroles intempestives
 
 # Remue-méninges à Castanet
 
-Nous avons décidé de mettre de côté l'application _Typhon Futé_ pour nous concentrer sur l'organisation des ateliers eux-mêmes. Pendant une semaine, nous avons creusé la piste consistant à utiliser des activités ludiques, fédératrices, pour produire un _Lean Canvas_.
+À deux pendant une semaine, nous avons cogité l’organisation des ateliers en creusant la piste consistant à utiliser des activités ludiques, fédératrices, pour produire un _Lean Canvas_.
 
-Avec les jeux nous possédions une résolution tactique élégante. Les ateliers ludiques permettaient au groupe de converger vers des propositions collectives sans partir dans les discussions infructueuses qui aboutissaient aux hold-up de parole. Nous avons donc créé des jeux dédiés à chaque section du _Lean Canvas_.
+Les jeux offraient une résolution tactique élégante. Pendant les  ateliers ludiques le groupe convergeait facilement vers des propositions collectives sans partir dans les discussions infructueuses ou dans les monologues. Nous avons donc créé des jeux dédiés pour chacune des sections du _Lean Canvas_.
 
-D'un autre côté, utiliser l'approche _Running Lean_ apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit. Cependant il était indispensable d'adapter l'approche à la cible des citoyens et du bien public. En effet, Running Lean s'intéresse aux applications commerciales et à leur rentabilité.
+D’autre part, utiliser l'approche _Running Lean_ apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit.
 
-Nous avons donc adapté, modifié, réorienté les ateliers et le canevas. Nous avons baptisé _Gymkhana_ cette nouvelle formule d'ateliers de co-construction citoyenne. 
+Un problème subsistait, l’approche _Running Lean_ étant résolument commerciales et orientée profit, il était indispensable d’orienter l'approche sur l’utilité citoyenne et et le bien commun. Nous avons adapté, modifié, bidouillé les ateliers et le canevas, et cette nouvelle formule a été baptisée _Gymkhana_. 
 
-À cette étape, l'approche _Gymkhana_ était sympa, mais encore théorique, nous avons décidé de la mettre concrètement en application à l'occasion de la rencontre _Open Bidouille_ de Bordeaux.  
+À cette étape, l'approche n’était pas vérifiée, nous avons décidé de mettre de côté l'application _Typhon Futé_, et de tester concrètement cette nouvelle formule à l'occasion de la rencontre _Open Bidouille_ de Bordeaux.  
 
 # Anime-moi tendre, anime-moi vrai
 
@@ -103,6 +103,7 @@ http://www.gymkhana.fr - Fiches des ateliers Gymkhana
 http://blog.typhonfute.fr - Artefacts du projet Typhon Futé
 https://gymkhana.exposure.co - Photos des ateliers
 http://bit.ly/mtp-gymkhana - Flyer de l’atelier de Montpellier
+http://bit.ly/canvas-lean - Lean Canvas par Ash Maurya
 http://bit.ly/mvp-ash - MVP par Ash Maurya
 http://bit.ly/obc-gymkhana - Open-Bidouille de Bordeaux
 http://bit.ly/tedx-gymkhana - Vidéo de la présentation TedX
@@ -115,6 +116,7 @@ http://impactmapping.org - L’impact mapping par Gojko Adzic
 @davidbgk - Co-opérateur
 @keronos - Médiation numérique
 @langlois_s - Co-créateur
+@lilious - Co-animateur
 @liochan - Co-animateur
 @merkapt - Co-pilote
 #miho_fr - Typhon Futé
