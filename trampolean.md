@@ -64,19 +64,21 @@ En sortant de _La Cantine_ subsistaient donc comme problèmes les prises de paro
 
 # Remue-méninges à Castanet
 
-À deux pendant une semaine, nous avons cogité à l’organisation des ateliers en creusant la piste consistant à utiliser des activités ludiques, fédératrices, pour produire un _Lean Canvas_.
+À deux pendant une semaine, avec force cafés et post-it, nous avons cogité à l’organisation des ateliers en creusant la piste consistant à utiliser des activités ludiques, fédératrices, pour produire un tout cohérent et actionnable. Nous souhaitions conserver un artefact holistique et visuel, dans l'idée du _Lean Canvas_ à la mode Ash Maurya.
 
-Les jeux offraient une résolution tactique élégante. Pendant les ateliers ludiques le groupe convergeait facilement vers des propositions collectives sans partir dans les discussions infructueuses ou dans les monologues. Nous avons donc créé des jeux dédiés à chacune des sections du _Lean Canvas_.
+Les jeux offraient une résolution tactique élégante. Pendant les ateliers ludiques, le groupe convergeait facilement vers des propositions collectives sans partir dans les discussions infructueuses ou dans les monologues. Nous avons donc commencé à créer des jeux dédiés à chacune des sections du _Lean Canvas_. Nous nous sommes rendus compte que parfois un jeu répondait à plusieurs sections, parfois une section pouvait être couverte par plusieurs jeux. Cela n'était pas un problème, au contraire il nous semblait intéressant de proposer des alternatives dans la couverture du _Lean Canvas_.
 
-D’autre part, utiliser l'approche _Running Lean_ apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit.
+L'approche _Running Lean_, ainsi définie, apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit.
 
-Un problème subsistait : l’approche _Running Lean_ étant résolument commerciale et orientée profit, il était indispensable d’orienter l'approche sur l’utilité citoyenne et le bien commun. Nous avons adapté, modifié, bidouillé les ateliers et le canevas ( canvas?), et cette nouvelle formule a été baptisée _Gymkhana_. 
+Un gros problème subsistait : l’approche _Running Lean_ est résolument commerciale et orientée profit, alors que nous visions l’utilité citoyenne et le bien commun. Il était indispensable de la ré-orienter vers un objectif non commercial. Nous avons adapté, modifié, bidouillé les ateliers et le canevas ( canvas?), et cette nouvelle formule a été baptisée _Gymkhana_. 
 
-À cette étape, l'approche n’était pas vérifiée, nous avons décidé de mettre de côté l'application _Typhon Futé_, et de tester concrètement cette nouvelle formule à l'occasion de la rencontre _Open Bidouille_ de Bordeaux.  
+À cette étape, l'approche apparaissait séduisante. Nous l'avons d'abord vérifiée entre nous, en simulant à deux le déroulement typique de la journée.
+
+Ce premier niveau de feedback nous a permis d'ajuster l'accostage des jeux au canevas. Nous étions rassurés sur la faisabilité, il nous rester à tester concrètement cette nouvelle formule. Ce serait à l'occasion de la rencontre _Open Bidouille_ de Bordeaux.  
 
 # Anime-moi tendre, anime-moi vrai
 
-L'_Open Bidouille Camp_, est un peu la foire du _Do It Yourself_ (DIY), on y trouve des imprimantes 3D, les fans du _Disco soupe_, des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2013, les ateliers _Gymkhana_.
+L'_Open Bidouille Camp_, est un peu la foire du _Do It Yourself_ (DIY), on y trouve des imprimantes 3D, des fans du _Disco soupe_, des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2013, les ateliers _Gymkhana_.
 
 Pour l'occasion, nous avions convenu de partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. L'objectif consistait à réaliser le _Produit Minimum Viable_ d'une application Web. Le public était plus hétéroclite que lors des précédents ateliers, nous avions invité quelques proches de la communauté _agile_ bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'_Open Bidouille_ sont venus nous rejoindre. Nous avons joué aux jeux que nous avions bidouillés pour l’occasion. En fin de journée, le groupe avait fait émerger une vision collective avec des prises de parole pertinentes et équilibrées. Une hypothèse sous forme de _Lean Canvas_ avait été réalisée, un produit minimum était née : _Jette-moi, mais bien !_
 
