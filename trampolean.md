@@ -54,13 +54,13 @@ En sortant de _La Cantine_ subsistaient donc les prises de paroles intempestives
 
 # Remue-méninges à Castanet
 
-À deux pendant une semaine, nous avons cogité l’organisation des ateliers en creusant la piste consistant à utiliser des activités ludiques, fédératrices, pour produire un _Lean Canvas_.
+À deux pendant une semaine, nous avons cogité à l’organisation des ateliers en creusant la piste consistant à utiliser des activités ludiques, fédératrices, pour produire un _Lean Canvas_.
 
-Les jeux offraient une résolution tactique élégante. Pendant les  ateliers ludiques le groupe convergeait facilement vers des propositions collectives sans partir dans les discussions infructueuses ou dans les monologues. Nous avons donc créé des jeux dédiés pour chacune des sections du _Lean Canvas_.
+Les jeux offraient une résolution tactique élégante. Pendant les ateliers ludiques le groupe convergeait facilement vers des propositions collectives sans partir dans les discussions infructueuses ou dans les monologues. Nous avons donc créé des jeux dédiés à chacune des sections du _Lean Canvas_.
 
 D’autre part, utiliser l'approche _Running Lean_ apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit.
 
-Un problème subsistait, l’approche _Running Lean_ étant résolument commerciale et orientée profit, il était indispensable d’orienter l'approche sur l’utilité citoyenne et et le bien commun. Nous avons adapté, modifié, bidouillé les ateliers et le canevas, et cette nouvelle formule a été baptisée _Gymkhana_. 
+Un problème subsistait : l’approche _Running Lean_ étant résolument commerciale et orientée profit, il était indispensable d’orienter l'approche sur l’utilité citoyenne et le bien commun. Nous avons adapté, modifié, bidouillé les ateliers et le canevas ( canvas?), et cette nouvelle formule a été baptisée _Gymkhana_. 
 
 À cette étape, l'approche n’était pas vérifiée, nous avons décidé de mettre de côté l'application _Typhon Futé_, et de tester concrètement cette nouvelle formule à l'occasion de la rencontre _Open Bidouille_ de Bordeaux.  
 
@@ -77,17 +77,17 @@ Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _G
 Une présentation _TedX_ de _Gymkhana_ a été proposée à Toulon. La tentative était un peu fougueuse, l'approche étant très jeune, la démonstration souffrait d'un manque de stabilité.
 ***proposée et acceptée, je pense qu'il faut en dire un peu plus, parler des feedbacks***
 
-Nous souhaitions trouver un équilibre pour définir le projet sans pour autant le figer. Nous avons annoncé une proposition de valeur : “Construire ensemble et autrement des idées citoyennes”. Et proposé une première définition :
+Nous souhaitions trouver un équilibre pour définir le projet sans pour autant le figer. Nous avons annoncé une proposition de valeur (?) : “Construire ensemble et autrement des idées citoyennes”, et suggéré une première définition (de?) :
 
 “les ateliers _Gymkhana_ proposent de convertir une idée portée par des citoyens en plan d'action directement exploitable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale.”
 
 # Au pays de la médiation numérique
 
-Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles : la médiation numérique, nous a invités à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture _agile_.
+Beaucoup de groupes de pratique explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles : la médiation numérique, nous a invité à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture _agile_.
 
-Nous avons construit une première hypothèse de produit sur le thème de la Gestion D’Édition Documentaire pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journées.
+Nous avons construit une première hypothèse de produit sur le thème de la Gestion d’Édition Documentaire pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journées.
 
-Dans la première session, l’atelier : “Des acteurs et des pépées” a dévoilé les usagers attendus. Les “cartes d’empathies” ont aidé à définir le profil des tout premiers utilisateurs de l’application. Le groupe a ensuite imaginé les trois problèmes principaux auxquels ces _personae_ étaient confrontés.
+Dans la première session, l’atelier : “Des acteurs et des pépées” a dévoilé les usagers attendus. Les “cartes d’empathies” ont aidé à définir le profil des tout premiers utilisateurs de l’application. Le groupe a ensuite imaginé les trois problèmes principaux auxquels ces _personae_ étaient confrontées.
 
 La demi-journée qui séparait les deux sessions a été utilisée pour vérifier les résultats des ateliers en effectuant des interviews auprès des vrais usagers.
 
