@@ -21,11 +21,12 @@ Nous l'avons appelée _Gymkhana_.
 
 # Crise en incubation
 
-Nous souhaitions initialement réaliser une application Web [_Crise_] dont le but était d'aider les citoyens à prendre les bonnes décisions en situation de crise liée aux intempéries. Nous avons choisi de proposer ce projet à un incubateur dédié à l'Économie Sociale et Solidaire, afin d'en éprouver les approches d'accompagnement.
+L'inception de Gymkhana s'est produite en 2013. A l'époque, notre idée était de réaliser une application Web [_Crise_] qui avoir pour but d'aider les citoyens à prendre les bonnes décisions en situation de crise liée aux intempéries importantes, comme les épisodes cévenols. Nous avions choisi de proposer ce projet à un incubateur dédié à l'Économie Sociale et Solidaire, en phase avec nos valeurs.
 
-Durant six mois, nous avons suivi des formations marketing afin de réaliser un _business plan_ et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si l'approche de l'incubateur nous est apparue parfaitement inadaptée à la conduite d'un projet Web innovant, en revanche la richesse des rencontres, et des échanges autour de projets solidaires pertinents s'est avérée très prolifique.
+Durant six mois, nous avons éprouvé les approches d'accompagnement proposées par l'incubateur.
+Nous avons suivi des formations marketing afin de réaliser un _business plan_ et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si la richesse des rencontres et des échanges autour de projets solidaires pertinents s'est avérée très bénéfique, par contre l'approche de l'incubateur nous est apparue parfaitement inadaptée à la conduite d'un projet Web innovant.
 
-A l'issue de cette expérience, nous avions établi le constat qu'un réel besoin de décider en période de crise existait, mais que les projets étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincus que les approches _lean_ et _agiles_ que nous pratiquions depuis quelques années, pourraient contribuer à aider bien plus efficacement les porteurs de projets.  
+A l'issue de cette expérience, nous étions sûrs qu'un vrai besoin de décider en période de crise existait. Mais nous avions aussi établi le constat que les projets incubés étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincus que les approches _lean_ et _agiles_ que nous pratiquions depuis quelques années dans l'industrie,  contribueraient aussi à aider, bien plus efficacement, les porteurs de projets citoyens.  
 
 # Montpellier, un essai transformable
 
