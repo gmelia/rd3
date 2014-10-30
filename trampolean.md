@@ -1,4 +1,4 @@
-> “Construire ensemble et autrement des idées citoyennes"
+> “Construire ensemble et autrement des idées citoyennes”
 
 # Les citoyens dans le phare, les développeurs sur le bateau 
 
