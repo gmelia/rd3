@@ -48,21 +48,21 @@ Bilan des courses :
 - Concernant les jeux, les participants échappaient aux débats stériles, mais les résultats n'apportaient que des morceaux fragmentés, comme des pièces de puzzle éparses. Nous ne sommes pas parvenus à construire une vision homogène du produit avec ces éléments.
 
 La rétrospective de la journée a révélé trois problèmes :
-- nous n'arrivions pas à faire ressortir l'intelligence collective ;
-- certaines séquences provoquaient des débats stériles ; 
+- nous n'arrivions pas à faire ressortir l'intelligence collective,
+- certaines séquences provoquaient des débats stériles,
 - la production des ateliers était trop morcelée pour être exploitable. 
 
 # Toulouse presque rose
 
-Nous avons donc décidé de reconduire un atelier en essayant de résoudre les problèmes rencontrés à Montpellier tout en continuant la co-construction de l'application _Crise_.
+Nous avons donc décidé de reconduire cette journée proto-gymkhanesque en essayant de résoudre les problèmes rencontrés à Montpellier, tout en continuant la co-construction de l'application _Crise_.
 
-C'est à Toulouse, dans le tiers lieu _La Cantine_, que nous avons mis en place ce nouvel atelier. Pour redonner du peps et modifier l'approche, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site _On va sortir_. Nous avions également invité des partenaires de la communauté _agile_. 
+C'est à Toulouse, dans le tiers lieu _La Cantine_, que s'est déroulé ce nouvel atelier. Pour redonner du peps, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site _On va sortir_. Nous avions également invité des partenaires de la communauté _agile_. 
 
-Pour résoudre le problème du consensus mou, nous avons choisi d'utiliser des techniques de _Design Thinking_ et des exercices issus de l_'éducation populaire_ favorisant la co-création, et la pensée intuitive du groupe. Les résultats ont été concluants. Des idées  plus originales ont émergé, comme par exemple la solution d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, _Crise_, a d'ailleurs été rebaptisée _Typhon Futé_.
+Pour réduire le risque du consensus trop mou, nous avons choisi d'utiliser des techniques de _Design Thinking_ et des exercices issus de l_'éducation populaire_ favorisant la co-création, et la pensée intuitive du groupe. Les résultats ont été concluants. Des idées  plus originales ont émergé, comme par exemple la solution d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, _Crise_, a d'ailleurs été rebaptisée _Typhon Futé_.
 
-Afin de limiter les débats, nous avions resserré l'approche stratégique sur _Running Lean_. Malheureusement, cela n'a pas empêché les hold-up de parole. Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un _Lean Canvas_. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants sans toutefois résoudre complètement le problème de fragmentation du produit.
+Afin de limiter les débats, nous avions resserré l'approche stratégique sur _Running Lean_, "by the book". Malheureusement, cela n'a pas empêché les hold-up de parole. Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un _Lean Canvas_. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants sans toutefois résoudre complètement le problème de fragmentation du produit.
     
-En sortant de _La Cantine_ subsistaient donc les prises de paroles intempestives, et le morcellement des résultats des ateliers. 
+En sortant de _La Cantine_ subsistaient donc comme problèmes les prises de paroles intempestives, et le morcellement des résultats des ateliers. 
 
 # Remue-méninges à Castanet
 
