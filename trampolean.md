@@ -2,17 +2,22 @@
 
 # Les citoyens dans le phare, les développeurs sur le bateau 
 
-Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Cette matière première est malheureusement rarement exploitée, la collaboration avec les développeurs ou par des intermédiaires étant souvent infructueuse. C'est criant dans les sociétés où des années de silos ont érigé des barrières entre les utilisateurs ou leurs mandataires et les équipes de développement. Ils s'observent, chacun dans sa tourelle, par meurtrières interposées : les uns construisent des outils techniques difficilement utilisables, les autres formulent des solutions qui ne reflètent pas leurs besoins réels.
+Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Cette matière première est malheureusement mal exploitée, la collaboration avec les développeurs, directe ou par des intermédiaires, étant souvent infructueuse. C'est criant dans les sociétés où des années de silos ont érigé des barrières entre les utilisateurs ou leurs mandataires et les équipes de développement. Ils s'observent, chacun dans sa tourelle, par meurtrières interposées : les uns construisent des outils techniques difficilement utilisables, les autres formulent des solutions qui ne reflètent pas leurs besoins réels.
 
-Certains développeurs, conscients de ce fossé, visent à devenir artisans. Plutôt que de faire consommer des utilisateurs, ils souhaitent enchanter les citoyens avec leurs réalisations. Nous pourrions espérer quelques progrès en aidant les artisans développeurs et les citoyens usagers à trouver ensemble un Esperanto.
+Il existe déjà des développeurs qui, conscients de ce fossé, veulent devenir des artisans : plutôt que de faire consommer des utilisateurs, ils souhaitent enchanter les citoyens avec leurs réalisations. Après tout, ils sont aussi des citoyens.
 
-À partir d'une idée qui semble utile, s'aligner sur une vision cohérente et partagée relève toujours de la bonne fortune. Conséquence directe de ce manque d'alignement entre les parties : neuf fois sur dix, les projets n'aboutissent pas ou ne sont que très peu utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
+Que ces artisans développeurs et les citoyens usagers trouvent ensemble un Esperanto, voilà notre credo.
+
+Les premiers mots d'un langage commun sont ceux de la vision, cohérente et partagée.
+Car, à partir d'une idée qui semble utile à tous, s'aligner sur une vision relève le plus souvent de la bonne fortune. La conséquence directe de ce manque d'alignement entre les parties est que, neuf fois sur dix, les projets n'aboutissent pas ou que les résultats ne sont que très peu ou pas utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
 
 > “La vie est trop courte pour construire quelque chose que personne ne veut.” - Ash Maurya
 
 Il était nécessaire de casser la cloison qui séparait les développeurs des citoyens afin d'aligner les visions. Pour ce faire, il nous est apparu fondamental de rencontrer les citoyens, d'échanger avec eux sur leurs besoins réels avant de les enfermer avec les développeurs dans une solution anticipée et inadaptée.
 
-Nous avons entrepris une véritable expédition à la recherche des problématiques citoyennes. Ce parcours sinueux, partant de notre volonté de co-construire un produit, nous a conduits, de Montpellier à Bordeaux en passant par Toulouse, à l'élaboration d'une nouvelle approche basée sur des ateliers participatifs avec les citoyens. Nous l'avons appelée _Gymkhana_.
+Nous avons entrepris une véritable expédition à la recherche des problématiques citoyennes. Ce parcours sinueux, partant de notre volonté de co-construire un produit, nous a conduits, de Montpellier à Bordeaux en passant par Toulouse, à l'élaboration d'une nouvelle approche basée sur des ateliers participatifs avec les citoyens. 
+
+Nous l'avons appelée _Gymkhana_.
 
 # Crise en incubation
 
