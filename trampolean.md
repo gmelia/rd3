@@ -8,8 +8,7 @@ Il existe déjà des développeurs qui, conscients de ce fossé, veulent devenir
 
 Que ces artisans développeurs et les citoyens usagers trouvent ensemble un Esperanto, voilà notre credo.
 
-Les premiers mots d'un langage commun sont ceux de la vision, cohérente et partagée.
-Car, à partir d'une idée qui semble utile à tous, s'aligner sur une vision relève le plus souvent de la bonne fortune. La conséquence directe de ce manque d'alignement entre les parties est que, neuf fois sur dix, les projets n'aboutissent pas ou que les résultats ne sont que très peu ou pas utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
+Les premiers mots d'un langage commun sont ceux de la vision, cohérente et partagée. Car, à partir d'une idée qui semble utile à tous, s'aligner sur une vision relève le plus souvent de la bonne fortune. La conséquence directe de ce manque d'alignement entre les parties est que, neuf fois sur dix, les projets n'aboutissent pas ou que les résultats ne sont que très peu ou pas utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
 
 > “La vie est trop courte pour construire quelque chose que personne ne veut.” - Ash Maurya
 
@@ -21,10 +20,9 @@ Nous l'avons appelée _Gymkhana_.
 
 # Crise en incubation
 
-L'inception de Gymkhana s'est produite en 2013. A l'époque, notre idée était de réaliser une application Web [_Crise_] qui avoir pour but d'aider les citoyens à prendre les bonnes décisions en situation de crise liée aux intempéries importantes, comme les épisodes cévenols. Nous avions choisi de proposer ce projet à un incubateur dédié à l'Économie Sociale et Solidaire, en phase avec nos valeurs.
+L'inception de Gymkhana s'est produite en 2013. A l'époque, notre idée était de réaliser une application Web _Crise_ qui avoir pour but d'aider les citoyens à prendre les bonnes décisions en situation de crise liée aux intempéries importantes, comme les épisodes cévenols. Nous avions choisi de proposer ce projet à un incubateur dédié à l'Économie Sociale et Solidaire, en phase avec nos valeurs.
 
-Durant six mois, nous avons éprouvé les approches d'accompagnement proposées par l'incubateur.
-Nous avons suivi des formations marketing afin de réaliser un _business plan_ et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si la richesse des rencontres et des échanges autour de projets solidaires pertinents s'est avérée très bénéfique, par contre l'approche de l'incubateur nous est apparue parfaitement inadaptée à la conduite d'un projet Web innovant.
+Durant six mois, nous avons éprouvé les approches d'accompagnement proposées par l'incubateur. Nous avons suivi des formations marketing afin de réaliser un _business plan_ et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si la richesse des rencontres et des échanges autour de projets solidaires pertinents s'est avérée très bénéfique, par contre l'approche de l'incubateur nous est apparue parfaitement inadaptée à la conduite d'un projet Web innovant.
 
 A l'issue de cette expérience, nous étions sûrs qu'un vrai besoin de décider en période de crise existait. Mais nous avions aussi établi le constat que les projets incubés étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincus que les approches _lean_ et _agiles_ que nous pratiquions depuis quelques années dans l'industrie,  contribueraient aussi à aider, bien plus efficacement, les porteurs de projets citoyens.  
 
@@ -38,9 +36,9 @@ La matinée a été consacrée à des jeux _agiles_. Nous avons d'abord scruté 
 
 L'après-midi, les participants rassemblés en différents groupes ont été invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
 Pour synthétiser les résultats des jeux et converger vers une vision partagée, nous avons utilisé trois approches différentes : 
-- _Impact mapping_.
-- _Story mapping_.
-- _Running lean_.
+	- _Impact mapping_.
+	- _Story mapping_.
+	- _Running lean_.
 
 Bilan des courses : 
 - La matinée s'est avérée très prolifique, la parole a bien circulé, les ateliers nous ont permis d’obtenir une compréhension relative de _Crise_ et des impacts attendus par les citoyens. Nous souhaitions converger dans l'après-midi, mais le passage des jeux à la concertation a provoqué des débats usants durant lesquels quelques participants ont monopolisé la parole. Un sujet aussi spécifique que la responsabilité pénale des institutions a par exemple généré des controverses longues et ennuyeuses. 
@@ -60,7 +58,7 @@ C'est à Toulouse, dans le tiers lieu _La Cantine_, que s'est déroulé ce nouve
 
 Pour réduire le risque du consensus trop mou, nous avons choisi d'utiliser des techniques de _Design Thinking_ et des exercices issus de l_'éducation populaire_ favorisant la co-création, et la pensée intuitive du groupe. Les résultats ont été concluants. Des idées  plus originales ont émergé, comme par exemple la solution d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, _Crise_, a d'ailleurs été rebaptisée _Typhon Futé_.
 
-Afin de limiter les débats, nous avions resserré l'approche stratégique sur _Running Lean_, "by the book". Malheureusement, cela n'a pas empêché les hold-up de parole. Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un _Lean Canvas_. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants sans toutefois résoudre complètement le problème de fragmentation du produit.
+Afin de limiter les débats, nous avions resserré l'approche stratégique sur _running lean_, "by the book". Malheureusement, cela n'a pas empêché les hold-up de parole. Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un _lean canvas_. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants sans toutefois résoudre complètement le problème de fragmentation du produit.
     
 En sortant de _La Cantine_ subsistaient donc comme problèmes les prises de paroles intempestives, et le morcellement des résultats des ateliers. 
 
