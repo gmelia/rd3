@@ -4,7 +4,7 @@
 
 Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Malheureusement sa collaboration avec les développeurs est inexistante ou, quand elle passe par l'intermédiaire de représentants, infructueuse. C'est criant dans les sociétés où des années de silos ont érigé des barrières entre les utilisateurs ou leurs mandataires et les équipes de développement. Ils s'observent, chacun dans sa tourelle, par meurtrières interposées : les uns construisent des outils techniques difficilement utilisables, les autres formulent des solutions qui ne reflètent pas leurs besoins réels.
 
-Certains développeurs conscients de ce fossé vise à devenir artisan. Plutôt que de faire consommer des utilisateurs, ils souhaitent enchanter les citoyens avec leurs réalisations. Nous pourrions espérer quelques progrès en aidant les artisans développeurs et les citoyens usagers à trouver ensemble leur Esperanto.
+Certains développeurs, conscients de ce fossé, visent à devenir artisans. Plutôt que de faire consommer des utilisateurs, ils souhaitent enchanter les citoyens avec leurs réalisations. Nous pourrions espérer quelques progrès en aidant les artisans développeurs et les citoyens usagers à trouver ensemble leur Esperanto.
 
 Cependant, à partir d'une idée qui semble utile, s'aligner sur une vision cohérente et partagée relève toujours de la bonne fortune. Conséquence directe de ce manque d'alignement entre les parties : neuf fois sur dix, les projets n'aboutissent pas ou ne sont que très peu utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
 
@@ -20,7 +20,7 @@ Nous souhaitions initialement réaliser une application Web [_Crise_] dont le bu
 
 Durant six mois, nous avons suivi des formations marketing afin de réaliser un _business plan_ et une étude de marché. Nous avons partagé cette expérience avec d'autres citoyens et découvert des projets innovants très intéressants. Si l'approche de l'incubateur nous est apparue parfaitement inadaptée à la conduite d'un projet Web innovant, en revanche la richesse des rencontres, et des échanges autour de projets solidaires pertinents s'est avérée très prolifique.
 
-A l'issue de cette expérience, nous avions établi le constat qu'un réel besoin de décider en période de crise existait, mais que les projets étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincu que les approches _lean_ et _agiles_ que nous pratiquions depuis quelques années, pourraient contribuer à aider bien plus efficacement les porteurs de projets.  
+A l'issue de cette expérience, nous avions établi le constat qu'un réel besoin de décider en période de crise existait, mais que les projets étaient mal accompagnés, avec des pratiques inadaptées au contexte. Nous étions convaincus que les approches _lean_ et _agiles_ que nous pratiquions depuis quelques années, pourraient contribuer à aider bien plus efficacement les porteurs de projets.  
 
 # Montpellier, un essai transformable
 
@@ -60,7 +60,7 @@ Les jeux offraient une résolution tactique élégante. Pendant les  ateliers lu
 
 D’autre part, utiliser l'approche _Running Lean_ apportait une réponse stratégique qui réglait le problème de morcellement en produisant une vision unifiée du produit.
 
-Un problème subsistait, l’approche _Running Lean_ étant résolument commerciales et orientée profit, il était indispensable d’orienter l'approche sur l’utilité citoyenne et et le bien commun. Nous avons adapté, modifié, bidouillé les ateliers et le canevas, et cette nouvelle formule a été baptisée _Gymkhana_. 
+Un problème subsistait, l’approche _Running Lean_ étant résolument commerciale et orientée profit, il était indispensable d’orienter l'approche sur l’utilité citoyenne et et le bien commun. Nous avons adapté, modifié, bidouillé les ateliers et le canevas, et cette nouvelle formule a été baptisée _Gymkhana_. 
 
 À cette étape, l'approche n’était pas vérifiée, nous avons décidé de mettre de côté l'application _Typhon Futé_, et de tester concrètement cette nouvelle formule à l'occasion de la rencontre _Open Bidouille_ de Bordeaux.  
 
@@ -75,21 +75,23 @@ Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _G
 # TedX : le potager numérique
 
 Une présentation _TedX_ de _Gymkhana_ a été proposée à Toulon. La tentative était un peu fougueuse, l'approche étant très jeune, la démonstration souffrait d'un manque de stabilité.
+***proposée et acceptée, je pense qu'il faut en dire un peu plus, parler des feedbacks***
+
 Nous souhaitions trouver un équilibre pour définir le projet sans pour autant le figer. Nous avons annoncé une proposition de valeur : “Construire ensemble et autrement des idées citoyennes”. Et proposé une première définition :
 
 “les ateliers _Gymkhana_ proposent de convertir une idée portée par des citoyens en plan d'action directement exploitable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale.”
 
 # Au pays de la médiation numérique
 
-Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elle : la médiation numérique, nous a invité à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture _agile_.
+Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles : la médiation numérique, nous a invités à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture _agile_.
 
-Nous avons construit une première hypothèse de produit sur le thème de la Gestion D’Édition Documentaire pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journée.
+Nous avons construit une première hypothèse de produit sur le thème de la Gestion D’Édition Documentaire pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journées.
 
 Dans la première session, l’atelier : “Des acteurs et des pépées” a dévoilé les usagers attendus. Les “cartes d’empathies” ont aidé à définir le profil des tout premiers utilisateurs de l’application. Le groupe a ensuite imaginé les trois problèmes principaux auxquels ces _personae_ étaient confrontés.
 
-La demi-journée qui séparait les deux sessions a été utilisé pour vérifier les résultats des ateliers en effectuant des interviews auprès des vrais usagers.
+La demi-journée qui séparait les deux sessions a été utilisée pour vérifier les résultats des ateliers en effectuant des interviews auprès des vrais usagers.
 
-Le lendemain, nous avons commencé la journée en vérifiant les certitudes produites la veille en les actualisant avec les enseignements des interviews. Suivant les ateliers, les intervenants se sont répartis en deux ou quatre groupes. À la fin des ateliers, nous convergions pour vérifier la pertinence des résultats, et compléter le _canvas_. 
+Le lendemain, nous avons commencé la journée par la vérification les certitudes produites la veille en les actualisant avec les enseignements des interviews. Suivant les ateliers, les intervenants se sont répartis en deux ou quatre groupes. À la fin des ateliers, nous convergions pour vérifier la pertinence des résultats, et compléter le _canvas_. 
 
 Ensemble, nous avons relevé plusieurs points d’amélioration au cours d’une rétrospective de clôture. Tout d’abord, les participants ont signalé un frein de compréhension liée au jargon, cette demande avait déjà été clairement formulée à Toulouse. Un autre point a été mentionné : le démarrage de l’atelier a provoqué une légère insécurité qui était déstabilisante pour les protagonistes, beaucoup se sont sentis désorientés.
 
