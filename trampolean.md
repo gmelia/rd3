@@ -30,18 +30,24 @@ A l'issue de cette expérience, nous étions sûrs qu'un vrai besoin de décider
 
 # Montpellier, un essai transformable
 
-Le premier coup de pied _Gymkhana_ a été donné à Montpellier. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois : modéliser les besoins de _Crise_, et obtenir une première hypothèse de travail. Nous avions hâte de revenir à nos pratiques, et de réellement commencer la réalisation de _Crise_.
+Le premier coup de pied _Gymkhana_ a été donné à Montpellier. Il nous paraissait possible d’obtenir, en une seule journée, ce que nous n’avions pas réussi à construire en six mois d'incubation : modéliser les besoins de _Crise_, et obtenir une première hypothèse de travail. Nous avions hâte de revenir à nos pratiques, et de commencer enfin la réalisation de _Crise_.
 
-Une des singularités du projet reposait sur l’absence de _client_ au sens conventionnel du terme. L’habitude d’utiliser des jeux _agiles_ pour faciliter la collaboration des équipes a fait émerger l’idée d’organiser une journée de co-construction centrée sur les usagers. Pour cette première expérience des citoyens un peu particuliers ont été invités, ils s’agissaient de développeurs, de _Product-Owner_, de _facilitateurs_ et d’experts métiers spécialisés dans la gestion de crises d’intempéries. La matinée était dédiée aux jeux _agiles_. Nous avons d'abord scruté l’avenir avec : “souvenir du futur”, puis défini des [_personae_] avec les “cartes d’empathie”, et enfin cherché notre cap avec le “speed-boat”. L'après-midi, les participants rassemblés en différents groupes ont été invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
+Une des singularités du projet reposait sur l’absence de _client_ au sens conventionnel du terme. L’habitude que nous avions des jeux _agiles_ pour faciliter la collaboration des équipes a fait émerger l’idée d’organiser une journée de co-construction centrée sur les usagers. Pour cette première expérience des citoyens un peu particuliers ont été invités : des développeurs, des _Product-Owner_, des _facilitateurs_ et des experts métiers spécialisés dans la gestion des crises d’intempéries. 
 
-L'après-midi, pour synthétiser et converger vers une vision partagée, nous avons utilisé trois approches différentes : 
-- _impact mapping_ ;
-- _story mapping_ ;
-- _running lean_.
+La matinée a été consacrée à des jeux _agiles_. Nous avons d'abord scruté l’avenir avec : “souvenir du futur”, puis défini des [_personae_] avec les “cartes d’empathie”, et enfin cherché notre cap avec le “hors-bord”. 
 
-Bilan des courses : La matinée s'est avérée très prolifique, la parole a bien circulé, les ateliers nous ont permis d’obtenir une compréhension relative de _Crise_ et des impacts attendus par les citoyens. Nous souhaitions converger dans l'après-midi, mais le passage des jeux à la concertation a provoqué des débats usants durant lesquels quelques participants ont monopolisé la parole. Un sujet aussi spécifique que la responsabilité pénale des institutions a par exemple généré des controverses longues et ennuyeuses. D’autre part, pour obtenir un consentement, nous avons écrêté les idées colorées et originales. Finalement le résultat s'est arrondi pour aboutir à une espèce de consensus mou. Par exemple, l'idée d'utiliser un canoë pour se déplacer dans les rues de Montpellier a été immédiatement écartée au profit de propositions plus conventionnelles, comme l'aide à la récupération des enfants à l'école. Concernant les jeux, les participants échappaient aux débats stériles, mais les résultats n'apportaient que des morceaux fragmentés, comme des pièces de puzzle éparses. Nous ne sommes pas parvenus à construire une vision homogène du produit avec ces éléments.
+L'après-midi, les participants rassemblés en différents groupes ont été invités à déterminer et à prioriser les fonctionnalités d'un _Produit Minimum Viable_.
+Pour synthétiser les résultats des jeux et converger vers une vision partagée, nous avons utilisé trois approches différentes : 
+- _Impact mapping_.
+- _Story mapping_.
+- _Running lean_.
 
-La rétrospective de la journée a révélé trois actions à entreprendre pour améliorer les problèmes suivants :
+Bilan des courses : 
+- La matinée s'est avérée très prolifique, la parole a bien circulé, les ateliers nous ont permis d’obtenir une compréhension relative de _Crise_ et des impacts attendus par les citoyens. Nous souhaitions converger dans l'après-midi, mais le passage des jeux à la concertation a provoqué des débats usants durant lesquels quelques participants ont monopolisé la parole. Un sujet aussi spécifique que la responsabilité pénale des institutions a par exemple généré des controverses longues et ennuyeuses. 
+- D’autre part, pour obtenir un consentement, nous avons écrêté les idées colorées et originales. Finalement le résultat s'est arrondi pour aboutir à une espèce de consensus mou. Par exemple, l'idée d'utiliser un canoë pour se déplacer dans les rues de Montpellier a été immédiatement écartée au profit de propositions plus conventionnelles, comme l'aide à la récupération des enfants à l'école. 
+- Concernant les jeux, les participants échappaient aux débats stériles, mais les résultats n'apportaient que des morceaux fragmentés, comme des pièces de puzzle éparses. Nous ne sommes pas parvenus à construire une vision homogène du produit avec ces éléments.
+
+La rétrospective de la journée a révélé trois problèmes :
 - nous n'arrivions pas à faire ressortir l'intelligence collective ;
 - certaines séquences provoquaient des débats stériles ; 
 - la production des ateliers était trop morcelée pour être exploitable. 
