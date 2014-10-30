@@ -2,11 +2,11 @@
 
 # Les citoyens dans le phare, les développeurs sur le bateau 
 
-Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Malheureusement sa collaboration avec les développeurs est inexistante ou, quand elle passe par l'intermédiaire de représentants, infructueuse. C'est criant dans les sociétés où des années de silos ont érigé des barrières entre les utilisateurs ou leurs mandataires et les équipes de développement. Ils s'observent, chacun dans sa tourelle, par meurtrières interposées : les uns construisent des outils techniques difficilement utilisables, les autres formulent des solutions qui ne reflètent pas leurs besoins réels.
+Pour imaginer des applications innovantes, le citoyen est un réservoir d'idées brutes. Cette matière première est malheureusement rarement exploitée, la collaboration avec les développeurs ou par des intermédiaires étant souvent infructueuse. C'est criant dans les sociétés où des années de silos ont érigé des barrières entre les utilisateurs ou leurs mandataires et les équipes de développement. Ils s'observent, chacun dans sa tourelle, par meurtrières interposées : les uns construisent des outils techniques difficilement utilisables, les autres formulent des solutions qui ne reflètent pas leurs besoins réels.
 
-Certains développeurs, conscients de ce fossé, visent à devenir artisans. Plutôt que de faire consommer des utilisateurs, ils souhaitent enchanter les citoyens avec leurs réalisations. Nous pourrions espérer quelques progrès en aidant les artisans développeurs et les citoyens usagers à trouver ensemble leur Esperanto.
+Certains développeurs, conscients de ce fossé, visent à devenir artisans. Plutôt que de faire consommer des utilisateurs, ils souhaitent enchanter les citoyens avec leurs réalisations. Nous pourrions espérer quelques progrès en aidant les artisans développeurs et les citoyens usagers à trouver ensemble un Esperanto.
 
-Cependant, à partir d'une idée qui semble utile, s'aligner sur une vision cohérente et partagée relève toujours de la bonne fortune. Conséquence directe de ce manque d'alignement entre les parties : neuf fois sur dix, les projets n'aboutissent pas ou ne sont que très peu utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
+À partir d'une idée qui semble utile, s'aligner sur une vision cohérente et partagée relève toujours de la bonne fortune. Conséquence directe de ce manque d'alignement entre les parties : neuf fois sur dix, les projets n'aboutissent pas ou ne sont que très peu utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
 
 > “La vie est trop courte pour construire quelque chose que personne ne veut.” - Ash Maurya
 
@@ -113,6 +113,7 @@ http://bit.ly/mvp-ash - MVP par Ash Maurya
 http://bit.ly/obc-gymkhana - Open-Bidouille de Bordeaux
 http://bit.ly/tedx-gymkhana - Vidéo de la présentation TedX
 http://bit.ly/mednum14 - 2ème Assises de la médiation numérique
+http://fr.wikipedia.org/wiki/Ivan_Illich - Ivan Illich
 http://impactmapping.org - L’impact mapping par Gojko Adzic
 http://discosoupe.org - Disco Soupe
 
