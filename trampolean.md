@@ -78,15 +78,19 @@ Ce premier niveau de feedback nous a permis d'ajuster l'accostage des jeux au ca
 
 # Anime-moi tendre, anime-moi vrai
 
-L'_Open Bidouille Camp_, est un peu la foire du _Do It Yourself_ (DIY), on y trouve des imprimantes 3D, des fans du _Disco soupe_, des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2013, les ateliers _Gymkhana_.
+L'_Open Bidouille Camp_, c'est un peu la foire du _Do It Yourself_ (DIY), on y trouve des imprimantes 3D, des fans du _Disco soupe_, des ateliers pour construire des tampons avec des légumes, et… pour l'édition 2014, les ateliers _Gymkhana_.
 
-Pour l'occasion, nous avions convenu de partir sur une problématique endémique en Gironde : la gestion citoyenne des ordures ménagères. L'objectif consistait à réaliser le _Produit Minimum Viable_ d'une application Web. Le public était plus hétéroclite que lors des précédents ateliers, nous avions invité quelques proches de la communauté _agile_ bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'_Open Bidouille_ sont venus nous rejoindre. Nous avons joué aux jeux que nous avions bidouillés pour l’occasion. En fin de journée, le groupe avait fait émerger une vision collective avec des prises de parole pertinentes et équilibrées. Une hypothèse sous forme de _Lean Canvas_ avait été réalisée, un produit minimum était née : _Jette-moi, mais bien !_
+Pour l'occasion, nous avions convenu de partir sur une problématique endémique en Gironde, et peut-être ailleurs : la gestion citoyenne des ordures ménagères. L'objectif consistait à réaliser le _Produit Minimum Viable_ d'une application Web. 
 
-Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _Gymkhana_ en licence libre. Pour honorer cette promesse il était temps de documenter le projet. Nous avons proposé un site dédié avec des fiches outils, et une description générale du déroulé des ateliers.
+Le public était plus hétéroclite que lors des précédents ateliers, nous avions invité quelques proches de la communauté _agile_ bordelaise, des médiateurs numériques du Conseil Général de Gironde, et certains participants d'_Open Bidouille_ sont venus nous rejoindre. Nous avons joué aux jeux que nous avions bidouillés pour l’occasion. 
+
+En fin de journée, le groupe avait fait émerger une vision collective avec des prises de parole pertinentes et équilibrées. Une hypothèse sous forme de _Lean Canvas_ avait été réalisée, un produit minimum était née : _Jette-moi, mais bien !_
+
+Durant les ateliers, nous avions annoncé la mise à disposition des ateliers _Gymkhana_ en licence libre. Pour honorer cette promesse, il était temps de documenter le projet. Nous avons proposé un site dédié avec des fiches outils, et une description générale du déroulé des ateliers.
 
 # TedX : le potager numérique
 
-Une présentation _TedX_ de _Gymkhana_ a été proposée à Toulon. La tentative était un peu fougueuse, l'approche étant très jeune, la démonstration souffrait d'un manque de stabilité.
+Une présentation de _Gymkhana_ a été proposée à _TedX_ Toulon. La tentative était un peu fougueuse, l'approche étant très jeune, la démonstration souffrait d'un manque de stabilité.
 ***proposée et acceptée, je pense qu'il faut en dire un peu plus, parler des feedbacks***
 
 Nous souhaitions trouver un équilibre pour définir le projet sans pour autant le figer. Nous avons annoncé une proposition de valeur (?) : “Construire ensemble et autrement des idées citoyennes”, et suggéré une première définition (de?) :
@@ -95,9 +99,9 @@ Nous souhaitions trouver un équilibre pour définir le projet sans pour autant 
 
 # Au pays de la médiation numérique
 
-Beaucoup de groupes de pratique explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles : la médiation numérique, nous a invité à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture _agile_.
+Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles : la médiation numérique, nous a invités à jouer _Gymkhana_. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture _agile_.
 
-Nous avons construit une première hypothèse de produit sur le thème de la Gestion d’Édition Documentaire pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journées.
+Nous avons construit une première hypothèse de produit sur le thème de la Gestion d’Édition Documentaire (GED) pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journées.
 
 Dans la première session, l’atelier : “Des acteurs et des pépées” a dévoilé les usagers attendus. Les “cartes d’empathies” ont aidé à définir le profil des tout premiers utilisateurs de l’application. Le groupe a ensuite imaginé les trois problèmes principaux auxquels ces _personae_ étaient confrontées.
 
@@ -111,7 +115,7 @@ Ensemble, nous avons relevé plusieurs points d’amélioration au cours d’une
 
 Si nous ne faisons pas germer nos idées citoyennes, elles finiront déformées et monétisées. Le covoiturage est un bon exemple, né dans les années 50 d’une initiative citoyenne, son principe était initialement basé sur des pratiques collaboratives d'auto-organisation citoyennes. Aujourd’hui, une application Web a été développée par une société privée qui est devenu incontournable en Europe :(
 
-Autre chantier, beaucoup d’institutions proposent des données publiques qui sont pour l’instant sous-exploitées dans leurs applications logicielles. Nous pourrions utiliser _Gymkhana_ pour faciliter la concertation et l’implication des citoyens.
+Autre chantier, beaucoup d’institutions proposent des données publiques (le "big data") qui sont pour l’instant sous-exploitées dans leurs applications logicielles. Nous pourrions utiliser _Gymkhana_ pour faciliter la concertation et l’implication des citoyens.
 
 _Gymkhana_ n'est pas qu'une succession d'ateliers ou de jeux, c'est une nouvelle approche pour faciliter l'innovation sociale et solidaire qui permet de casser la cloison entre les développeurs et les usagers.
 
@@ -130,14 +134,14 @@ http://impactmapping.org - L’impact mapping par Gojko Adzic
 http://discosoupe.org - Disco Soupe
 
 # Suivez ce compte !
-@ashmaurya - Running Lean
+@langlois_s - Créateur
 @claudeaubry - Co-créateur
 @davidbgk - Co-opérateur
-@keronos - Médiation numérique
-@langlois_s - Co-créateur
+@vinyll - Co-opérateur
 @lilious - Co-animateur
 @liochan - Co-animateur
 @merkapt - Co-pilote
-#miho_fr - Typhon Futé
+@keronos - Médiation numérique
+@miho_fr - Typhon Futé
 @providenz - TedX Toulon
-@vinyll - Co-opérateur
+@ashmaurya - Running Lean
