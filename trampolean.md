@@ -1,3 +1,5 @@
+# Gymkhana - , Stéphane Langlois & Claude Aubry
+
 “Construire ensemble et autrement des idées citoyennes”
 - Gymkhana
 
@@ -95,8 +97,9 @@ Une présentation de _Gymkhana_ a été proposée à _TedX_ Toulon. La tentative
 
 Nous souhaitions trouver un équilibre pour définir le projet sans pour autant le figer. Nous avons annoncé une proposition de valeur : “Construire ensemble et autrement des idées citoyennes”, et suggéré une première définition :
 
-“les ateliers gymkhana proposent de convertir une idée portée par des citoyens en plan d'action directement exploitable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale.”
-Au pays de la médiation numérique
+“Les ateliers gymkhana proposent de convertir une idée portée par des citoyens en plan d'action directement exploitable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale.”
+
+# Au pays de la médiation numérique
 Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles : la médiation numérique, nous a invités à jouer gymkhana. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture agile.
 
 Nous avons construit une première hypothèse de produit sur le thème de la Gestion d’Édition Documentaire (GED) pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journées.
@@ -144,3 +147,17 @@ http://discosoupe.org - Disco Soupe
 @miho_fr - Typhon Futé
 @providenz - TedX Toulon
 @vinyll - Co-opérateur
+
+# Mini Bio
+
+Stéphane Langlois
+Réveillé en 90's par la sonnerie stridente d'un modem, j'ai choisi d'accompagner des équipes pour construire des outils web. Chercheur de pépites collaboratives, j’essaye de faciliter l'auto-organisation.
+
+Après avoir longtemps travaillé sur des projets vaguement utiles, nous avons co-décidé de co-créer la coopérative scopyleft pour favoriser la réussite de produits web-mobiles innovants et solidaires.
+
+Claude Aubry
+L'agilité je suis tombé dedans quand j'étais petit. Mais je ne l’ai su qu’après, car ça ne s’appelait pas encore comme ça quand j’étais développeur. Ensuite j’ai eu une période « modèles et processus » qui s’est terminée avec les premiers couplets du Manifeste Agile.
+
+Comme j'aime le rugby, j'ai aimé Scrum, qui me l'a bien rendu en me procurant du plaisir - et plein de rencontres. Pour partager mon enthousiasme, j'ai commencé à raconter mes aventures agiles dans le blog Scrum, Agilité & rock'n roll puis en 2010 c’est carrément « Scrum le guide pratique de la méthode agile la plus populaire » qui est sorti chez Dunod.
+
+Maintenant, dans ma période post-Scrum-new-Web, j’essaie de changer le monde à coups de ruptures douces.
