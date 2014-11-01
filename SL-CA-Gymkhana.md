@@ -32,7 +32,7 @@ Le premier coup de pied gymkhana a été donné à Montpellier. Il nous paraissa
 Une des singularités du projet reposait sur l’absence de client au sens conventionnel du terme. L’habitude que nous avions des jeux agiles pour faciliter la collaboration des équipes a fait émerger l’idée d’organiser une journée de co-construction centrée sur les usagers. Pour cette première expérience des citoyens un peu particuliers ont été invités : des développeurs, des Product-Owner, des facilitateurs et des experts métiers spécialisés dans la gestion des crises d’intempéries.
 La matinée a été consacrée à des jeux agiles. Nous avons d'abord scruté l’avenir avec : “souvenir du futur”, puis défini des personae avec les “cartes d’empathie”, et enfin cherché notre cap avec le “hors-bord”.
 L'après-midi, les participants rassemblés en différents groupes ont été invités à déterminer et à prioriser les fonctionnalités d'un Produit Minimum Viable.
-Pour synthétiser les résultats des jeux et converger vers une vision partagée, nous avons utilisé trois approches différentes : 
+Pour synthétiser les résultats des jeux et converger vers une vision partagée, nous avons utilisé trois outils différents : 
 	- Impact mapping
 	- Story mapping
 	- Running lean
@@ -49,9 +49,13 @@ La rétrospective de la journée a révélé trois problèmes :
 
 # Toulouse presque rose
 Nous avons donc décidé de reconduire cette journée proto-gymkhanesque en essayant de résoudre les problèmes rencontrés à Montpellier, tout en continuant la co-construction de l'application Crise.
-C'est à Toulouse, dans le tiers lieu La Cantine, que s'est déroulé ce nouvel atelier. Pour redonner du peps, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site on va sortir. Nous avions également invité des partenaires de la communauté agile. 
-Pour réduire le risque du consensus trop mou, nous avons choisi d'utiliser des techniques de design thinking et des exercices issus de l'éducation populaire favorisant la co-création, et la pensée intuitive du groupe. Les résultats ont été concluants. Des idées  plus originales ont émergé, comme par exemple la solution d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, crise, a d'ailleurs été rebaptisée typhon futé.
-Afin de limiter les débats, nous avions resserré l'approche stratégique sur running lean, "by the book". Malheureusement, cela n'a pas empêché les hold-up de parole. Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un lean canvas. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants sans toutefois résoudre complètement le problème de fragmentation du produit.   
+C'est à Toulouse, dans le tiers-lieu La Cantine, que s'est déroulé ce nouvel atelier. 
+- Pour redonner du peps, une invitation a été lancée pour réaliser une journée d'ateliers basée sur des jeux. 
+- Pour rendre l'évènement accessible aux citoyens, nous avons publié une annonce sur le site on va sortir. Nous avions également invité des partenaires de la communauté Agile de Toulouse. 
+- Pour réduire le risque du consensus trop mou, nous avons choisi d'utiliser des techniques de design thinking et des exercices issus de l'éducation populaire favorisant la co-création, et la pensée intuitive du groupe. 
+
+Les résultats ont été concluants. Des idées  plus originales ont émergé, comme par exemple la solution d'envoyer une escadrille de drones pour rendre compte de l'importance des dégâts. À cette occasion, crise, a d'ailleurs été rebaptisée typhon futé.
+Afin de limiter les débats, nous avions resserré l'approche stratégique sur running lean, "by the book". Malheureusement, cela n'a pas empêché les hold-up de parole. Concernant le morcellement du produit, nous avons tenté d'orienter les jeux vers la construction d'un lean canvas. Notre approche n'était pas assez franche, nous l'avons simplement abordée comme une piste envisageable. Les résultats se sont montrés encourageants, sans toutefois résoudre complètement le problème de fragmentation du produit.   
 En sortant de La Cantine subsistaient donc comme problèmes les prises de paroles intempestives, et le morcellement des résultats des ateliers. 
 
 # Remue-méninges à Castanet
@@ -78,7 +82,7 @@ Nous souhaitions trouver un équilibre pour définir le projet sans pour autant 
 “Les ateliers gymkhana proposent de convertir une idée portée par des citoyens en plan d'action directement exploitable par des développeurs. En une journée d'ateliers ludiques, les citoyens imaginent et modélisent une vision partagée pour co-construire des applications créatrices d'utilité sociale.”
 
 # Au pays de la médiation numérique
-Beaucoup de groupes de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles : la médiation numérique, nous a invités à jouer gymkhana. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture agile.
+Beaucoup de groupes, des communautés de pratiques explorent les approches collaboratives et coopératives. Depuis peu, les murs qui séparent ces communautés se lézardent, et l’une d’elles : la médiation numérique, nous a invités à jouer gymkhana. La fiche métier d’un médiateur numérique n’est pas encore bien définie, il accompagne les institutions, les associations et les citoyens pour faciliter, informer et accompagner l’accessibilité des usagers au numérique. Cette invitation était l’occasion de pratiquer l’atelier avec un groupe éloigné de la culture agile.
 Nous avons construit une première hypothèse de produit sur le thème de la Gestion d’Édition Documentaire (GED) pour la médiation numérique. L’atelier s’est déroulé sur deux demi-journées.
 
 > Production de l'atelier - « avis à la population ! »
@@ -87,10 +91,15 @@ Dans la première session, l’atelier : “Des acteurs et des pépées” a dé
 La demi-journée qui séparait les deux sessions a été utilisée pour vérifier les résultats des ateliers en effectuant des interviews auprès des vrais usagers.
 Le lendemain, nous avons commencé la journée par la vérification les certitudes produites la veille en les actualisant avec les enseignements des interviews. Suivant les ateliers, les intervenants se sont répartis en deux ou quatre groupes. À la fin des ateliers, nous convergions pour vérifier la pertinence des résultats, et compléter le canvas. 
 Ensemble, nous avons relevé plusieurs points d’amélioration au cours d’une rétrospective de clôture. Tout d’abord, les participants ont signalé un frein de compréhension liée au jargon, cette demande avait déjà été clairement formulée à Toulouse. Un autre point a été mentionné : le démarrage de l’atelier a provoqué une légère insécurité qui était déstabilisante pour les protagonistes, beaucoup se sont sentis désorientés.
+Pour mieux faire adhérer les participants, il va donc nous falloir travailler notre vocabulaire et créer un espace de sécurité au lancement d'un Gymkhana.
 
 # Vers quelque part, et au-delà
-Pour les dernières, on peut s’interroger sur le l'open data. Beaucoup d’institutions proposent des données publiques qui sont pour l’instant largement sous-exploitées dans les quelques applications logicielles que ces organismes ont fait développer.
+Si nous ne faisons pas germer nos idées citoyennes, elles finiront déformées et monétisées ou disparaîtront avant de murir.
+Pour les premières, le covoiturage est un bon exemple. Né dans les années 50 d’une initiative citoyenne, son principe était initialement basé sur des pratiques collaboratives d'auto-organisation entre usagers citoyens. Aujourd’hui, une application Web développée par une société privée est devenue incontournable en Europe :(
+
+Pour les dernières, on peut s’interroger sur l'open data. Beaucoup d’institutions proposent des données publiques qui sont pour l’instant largement sous-exploitées dans les quelques applications logicielles que ces organismes ont fait développer.
 Nous pourrions utiliser gymkhana pour faciliter la concertation et l’implication des citoyens et ainsi espérer obtenir des applications au service du public et dont l’apport au bien commun est garanti dans la durée.
+
 Gymkhana n'est pas qu'une succession d'ateliers ou de jeux qui visent à faciliter le développement d’applications. C’est aussi une nouvelle approche, qu’il serait dommage de confiner dans les technologies de l’information, pour faciliter l'innovation sociale et solidaire. 
 
 # Les petits liens…
