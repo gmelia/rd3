@@ -1,6 +1,6 @@
 # Gymkhana - , Stéphane Langlois & Claude Aubry
 
-“Construire ensemble et autrement des idées citoyennes”
+“ Construire ensemble et autrement des idées citoyennes. ”
 - Gymkhana
 
 # Les citoyens dans le phare, les développeurs sur le bateau 
@@ -9,7 +9,7 @@ Il existe déjà des développeurs qui, conscients de ce fossé, veulent devenir
 Que ces artisans développeurs et les citoyens usagers trouvent ensemble un Esperanto, voilà notre credo.
 Les premiers mots d'un langage commun sont ceux de la vision, cohérente et partagée. Car, à partir d'une idée qui semble utile à tous, s'aligner sur une vision relève le plus souvent de la bonne fortune. La conséquence directe de ce manque d'alignement entre les parties est que, neuf fois sur dix, les projets n'aboutissent pas ou que les résultats ne sont que très peu ou pas utilisés, ce qui est encore plus dramatique. L’effort fourni avant de reconnaitre l’échec représente une dépense de ressources, et un gaspillage d’énergie considérable.
 
-“La vie est trop courte pour construire quelque chose que personne ne veut.”
+“ La vie est trop courte pour construire quelque chose que personne ne veut. ”
 - Ash Maurya
 
 Il était nécessaire de casser la cloison qui séparait les développeurs des citoyens afin d'aligner les visions. Pour ce faire, il nous est apparu fondamental de rencontrer les citoyens, d'échanger avec eux sur leurs besoins réels avant de les enfermer avec les développeurs dans une solution anticipée et inadaptée.
@@ -120,16 +120,19 @@ http://discosoupe.org - Disco Soupe
 @providenz - TedX Toulon
 @vinyll - Co-opérateur
 
-# Mini Bio
+# 3 clés à retenir
+• Avec les jeux, nous arrivons à construire ensemble des idées sans partir dans des controverses égotiques.
+• En orientant lean canvas sur l'utilité citoyenne, il est possible de faire émerger un cadre stratégique très efficace.
+• Nous préférons aider les citoyens à exprimer leurs besoins plutôt que pousser une solution à partir de nos croyances.
 
+“ Pour être convivial un outil ne doit pas créer d'inégalité, il doit renforcer l'autonomie de chacun et il doit accroitre le champ d'action de chacun sur le réel. ” - Ivan Illich
+
+# Mini Bio
 Stéphane Langlois
 Réveillé en 90's par la sonnerie stridente d'un modem, j'ai choisi d'accompagner des équipes pour construire des outils web. Chercheur de pépites collaboratives, j’essaye de faciliter l'auto-organisation.
-
 Après avoir longtemps travaillé sur des projets vaguement utiles, nous avons co-décidé de co-créer la coopérative scopyleft pour favoriser la réussite de produits web-mobiles innovants et solidaires.
 
 Claude Aubry
 L'agilité je suis tombé dedans quand j'étais petit. Mais je ne l’ai su qu’après, car ça ne s’appelait pas encore comme ça quand j’étais développeur. Ensuite j’ai eu une période « modèles et processus » qui s’est terminée avec les premiers couplets du Manifeste Agile.
-
 Comme j'aime le rugby, j'ai aimé Scrum, qui me l'a bien rendu en me procurant du plaisir - et plein de rencontres. Pour partager mon enthousiasme, j'ai commencé à raconter mes aventures agiles dans le blog Scrum, Agilité & rock'n roll puis en 2010 c’est carrément « Scrum le guide pratique de la méthode agile la plus populaire » qui est sorti chez Dunod.
-
 Maintenant, dans ma période post-Scrum-new-Web, j’essaie de changer le monde à coups de ruptures douces.
