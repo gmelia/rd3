@@ -89,6 +89,8 @@ Le lendemain, nous avons commencé la journée par la vérification les certitud
 Ensemble, nous avons relevé plusieurs points d’amélioration au cours d’une rétrospective de clôture. Tout d’abord, les participants ont signalé un frein de compréhension liée au jargon, cette demande avait déjà été clairement formulée à Toulouse. Un autre point a été mentionné : le démarrage de l’atelier a provoqué une légère insécurité qui était déstabilisante pour les protagonistes, beaucoup se sont sentis désorientés.
 
 # Vers quelque part, et au-delà
+Si nous ne faisons pas germer nos idées citoyennes, elles finiront déformées et monétisées ou disparaîtront avant de murir. 
+Pour les premières, le covoiturage est un bon exemple. Né dans les années 50 d’une initiative citoyenne, son principe était initialement basé sur des pratiques collaboratives d'auto-organisation entre usagers citoyens. Aujourd’hui, une application Web développée par une société privée est devenue incontournable en Europe :(
 Pour les dernières, on peut s’interroger sur le l'open data. Beaucoup d’institutions proposent des données publiques qui sont pour l’instant largement sous-exploitées dans les quelques applications logicielles que ces organismes ont fait développer.
 Nous pourrions utiliser gymkhana pour faciliter la concertation et l’implication des citoyens et ainsi espérer obtenir des applications au service du public et dont l’apport au bien commun est garanti dans la durée.
 Gymkhana n'est pas qu'une succession d'ateliers ou de jeux qui visent à faciliter le développement d’applications. C’est aussi une nouvelle approche, qu’il serait dommage de confiner dans les technologies de l’information, pour faciliter l'innovation sociale et solidaire. 
